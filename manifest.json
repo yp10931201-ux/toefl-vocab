@@ -1,0 +1,18 @@
+{
+  "name": "托福1000單",
+  "short_name": "托福單字",
+  "description": "托福進階詞彙學習 App",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#6366f1",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

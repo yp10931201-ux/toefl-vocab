@@ -1,0 +1,5906 @@
+[
+  {
+    "id": 1,
+    "word": "Abate",
+    "pos": "v.",
+    "translation": "減輕、減少"
+  },
+  {
+    "id": 2,
+    "word": "Aberration",
+    "pos": "n.",
+    "translation": "異常、脫軌"
+  },
+  {
+    "id": 3,
+    "word": "Abhor",
+    "pos": "v.",
+    "translation": "憎恨"
+  },
+  {
+    "id": 4,
+    "word": "Abstruse",
+    "pos": "adj.",
+    "translation": "深奧的、難懂的"
+  },
+  {
+    "id": 5,
+    "word": "Acumen",
+    "pos": "n.",
+    "translation": "敏銳、聰明"
+  },
+  {
+    "id": 6,
+    "word": "Adamant",
+    "pos": "adj.",
+    "translation": "堅決的、固執的"
+  },
+  {
+    "id": 7,
+    "word": "Adroit",
+    "pos": "adj.",
+    "translation": "靈巧的、敏捷的"
+  },
+  {
+    "id": 8,
+    "word": "Aesthetic",
+    "pos": "adj.",
+    "translation": "美學的、審美的"
+  },
+  {
+    "id": 9,
+    "word": "Alacrity",
+    "pos": "n.",
+    "translation": "敏捷、熱忱"
+  },
+  {
+    "id": 10,
+    "word": "Amalgamate",
+    "pos": "v.",
+    "translation": "混合、合併"
+  },
+  {
+    "id": 11,
+    "word": "Ameliorate",
+    "pos": "v.",
+    "translation": "改善、改良"
+  },
+  {
+    "id": 12,
+    "word": "Anomaly",
+    "pos": "n.",
+    "translation": "異常、反常"
+  },
+  {
+    "id": 13,
+    "word": "Antipathy",
+    "pos": "n.",
+    "translation": "反感、厭惡"
+  },
+  {
+    "id": 14,
+    "word": "Apathy",
+    "pos": "n.",
+    "translation": "冷漠、無動於衷"
+  },
+  {
+    "id": 15,
+    "word": "Appease",
+    "pos": "v.",
+    "translation": "平息、安撫"
+  },
+  {
+    "id": 16,
+    "word": "Arcane",
+    "pos": "adj.",
+    "translation": "神秘的、晦澀難懂的"
+  },
+  {
+    "id": 17,
+    "word": "Ascertain",
+    "pos": "v.",
+    "translation": "查明、確定"
+  },
+  {
+    "id": 18,
+    "word": "Ascetic",
+    "pos": "adj.",
+    "translation": "禁慾的、苦行的"
+  },
+  {
+    "id": 19,
+    "word": "Assuage",
+    "pos": "v.",
+    "translation": "緩和、減輕"
+  },
+  {
+    "id": 20,
+    "word": "Astute",
+    "pos": "adj.",
+    "translation": "機敏的、狡猾的"
+  },
+  {
+    "id": 21,
+    "word": "Attenuate",
+    "pos": "v.",
+    "translation": "使變弱、變薄"
+  },
+  {
+    "id": 22,
+    "word": "Audacious",
+    "pos": "adj.",
+    "translation": "大膽的、魯莽的"
+  },
+  {
+    "id": 23,
+    "word": "Austere",
+    "pos": "adj.",
+    "translation": "嚴厲的、簡樸的"
+  },
+  {
+    "id": 24,
+    "word": "Autonomous",
+    "pos": "adj.",
+    "translation": "自治的、獨立的"
+  },
+  {
+    "id": 25,
+    "word": "Avarice",
+    "pos": "n.",
+    "translation": "貪婪"
+  },
+  {
+    "id": 26,
+    "word": "Axiom",
+    "pos": "n.",
+    "translation": "公理、自明之理"
+  },
+  {
+    "id": 27,
+    "word": "Banal",
+    "pos": "adj.",
+    "translation": "平庸的、陳腐的"
+  },
+  {
+    "id": 28,
+    "word": "Belligerent",
+    "pos": "adj.",
+    "translation": "好戰的、交戰的"
+  },
+  {
+    "id": 29,
+    "word": "Benevolent",
+    "pos": "adj.",
+    "translation": "仁慈的、慈善的"
+  },
+  {
+    "id": 30,
+    "word": "Bolster",
+    "pos": "v.",
+    "translation": "支持、鼓勵"
+  },
+  {
+    "id": 31,
+    "word": "Bombastic",
+    "pos": "adj.",
+    "translation": "誇大的、言過其實的"
+  },
+  {
+    "id": 32,
+    "word": "Bucolic",
+    "pos": "adj.",
+    "translation": "田園的、鄉村的"
+  },
+  {
+    "id": 33,
+    "word": "Burgeon",
+    "pos": "v.",
+    "translation": "迅速發展、發芽"
+  },
+  {
+    "id": 34,
+    "word": "Cacophony",
+    "pos": "n.",
+    "translation": "雜音、刺耳的聲音"
+  },
+  {
+    "id": 35,
+    "word": "Cajole",
+    "pos": "v.",
+    "translation": "哄騙、誘騙"
+  },
+  {
+    "id": 36,
+    "word": "Candid",
+    "pos": "adj.",
+    "translation": "坦率的、真誠的"
+  },
+  {
+    "id": 37,
+    "word": "Capricious",
+    "pos": "adj.",
+    "translation": "反覆無常的、任性的"
+  },
+  {
+    "id": 38,
+    "word": "Catalyst",
+    "pos": "n.",
+    "translation": "催化劑、促使變化事物"
+  },
+  {
+    "id": 39,
+    "word": "Catharsis",
+    "pos": "n.",
+    "translation": "宣洩、淨化"
+  },
+  {
+    "id": 40,
+    "word": "Caustic",
+    "pos": "adj.",
+    "translation": "腐蝕性的、刻薄的"
+  },
+  {
+    "id": 41,
+    "word": "Chauvinist",
+    "pos": "n.",
+    "translation": "沙文主義者、盲目愛國者"
+  },
+  {
+    "id": 42,
+    "word": "Chicanery",
+    "pos": "n.",
+    "translation": "欺騙、詭計"
+  },
+  {
+    "id": 43,
+    "word": "Chronological",
+    "pos": "adj.",
+    "translation": "按時間順序的"
+  },
+  {
+    "id": 44,
+    "word": "Circumspect",
+    "pos": "adj.",
+    "translation": "慎重的、謹慎的"
+  },
+  {
+    "id": 45,
+    "word": "Cogent",
+    "pos": "adj.",
+    "translation": "有說服力的"
+  },
+  {
+    "id": 46,
+    "word": "Commensurate",
+    "pos": "adj.",
+    "translation": "相稱的、同等的"
+  },
+  {
+    "id": 47,
+    "word": "Complacent",
+    "pos": "adj.",
+    "translation": "自滿的、得意的"
+  },
+  {
+    "id": 48,
+    "word": "Conciliatory",
+    "pos": "adj.",
+    "translation": "安撫的、調和的"
+  },
+  {
+    "id": 49,
+    "word": "Condone",
+    "pos": "v.",
+    "translation": "寬恕、赦免"
+  },
+  {
+    "id": 50,
+    "word": "Confound",
+    "pos": "v.",
+    "translation": "使困惑、使混淆"
+  },
+  {
+    "id": 51,
+    "word": "Connoisseur",
+    "pos": "n.",
+    "translation": "鑑賞家、行家"
+  },
+  {
+    "id": 52,
+    "word": "Consensus",
+    "pos": "n.",
+    "translation": "共識、一致"
+  },
+  {
+    "id": 53,
+    "word": "Contentious",
+    "pos": "adj.",
+    "translation": "有爭議的、好辯的"
+  },
+  {
+    "id": 54,
+    "word": "Contrite",
+    "pos": "adj.",
+    "translation": "悔罪的、痛悔的"
+  },
+  {
+    "id": 55,
+    "word": "Conundrum",
+    "pos": "n.",
+    "translation": "難題、複雜問題"
+  },
+  {
+    "id": 56,
+    "word": "Converge",
+    "pos": "v.",
+    "translation": "匯聚、集中於一點"
+  },
+  {
+    "id": 57,
+    "word": "Convoluted",
+    "pos": "adj.",
+    "translation": "費解的、旋繞的"
+  },
+  {
+    "id": 58,
+    "word": "Correlate",
+    "pos": "v.",
+    "translation": "使相關聯"
+  },
+  {
+    "id": 59,
+    "word": "Corroborate",
+    "pos": "v.",
+    "translation": "證實、確證"
+  },
+  {
+    "id": 60,
+    "word": "Craven",
+    "pos": "adj.",
+    "translation": "怯懦的、畏縮的"
+  },
+  {
+    "id": 61,
+    "word": "Credulous",
+    "pos": "adj.",
+    "translation": "輕信的、易受騙的"
+  },
+  {
+    "id": 62,
+    "word": "Crescendo",
+    "pos": "n.",
+    "translation": "漸強、頂點"
+  },
+  {
+    "id": 63,
+    "word": "Culminate",
+    "pos": "v.",
+    "translation": "達到頂點、以…告終"
+  },
+  {
+    "id": 64,
+    "word": "Daunt",
+    "pos": "v.",
+    "translation": "使氣餒、威嚇"
+  },
+  {
+    "id": 65,
+    "word": "Dearth",
+    "pos": "n.",
+    "translation": "缺乏、不足"
+  },
+  {
+    "id": 66,
+    "word": "Debilitate",
+    "pos": "v.",
+    "translation": "使虛弱、使衰弱"
+  },
+  {
+    "id": 67,
+    "word": "Decorous",
+    "pos": "adj.",
+    "translation": "端莊的、得體的"
+  },
+  {
+    "id": 68,
+    "word": "Deduce",
+    "pos": "v.",
+    "translation": "推論、演繹"
+  },
+  {
+    "id": 69,
+    "word": "Defamation",
+    "pos": "n.",
+    "translation": "誹謗、中傷"
+  },
+  {
+    "id": 70,
+    "word": "Deference",
+    "pos": "n.",
+    "translation": "尊重、順從"
+  },
+  {
+    "id": 71,
+    "word": "Delineate",
+    "pos": "v.",
+    "translation": "描繪、詳細說明"
+  },
+  {
+    "id": 72,
+    "word": "Demagogue",
+    "pos": "n.",
+    "translation": "煽動者、蠱惑民心的政客"
+  },
+  {
+    "id": 73,
+    "word": "Denigrate",
+    "pos": "v.",
+    "translation": "貶低、詆毀"
+  },
+  {
+    "id": 74,
+    "word": "Derivative",
+    "pos": "n.",
+    "translation": "衍生物、派生物"
+  },
+  {
+    "id": 75,
+    "word": "Desiccate",
+    "pos": "v.",
+    "translation": "使乾燥、使脫水"
+  },
+  {
+    "id": 76,
+    "word": "Desultory",
+    "pos": "adj.",
+    "translation": "散漫的、斷斷續續的"
+  },
+  {
+    "id": 77,
+    "word": "Deterrent",
+    "pos": "n.",
+    "translation": "威懾力量、制止物"
+  },
+  {
+    "id": 78,
+    "word": "Diatribe",
+    "pos": "n.",
+    "translation": "抨擊、譴責"
+  },
+  {
+    "id": 79,
+    "word": "Dichotomy",
+    "pos": "n.",
+    "translation": "二分法、對立"
+  },
+  {
+    "id": 80,
+    "word": "Didactic",
+    "pos": "adj.",
+    "translation": "說教的、教誨的"
+  },
+  {
+    "id": 81,
+    "word": "Diffident",
+    "pos": "adj.",
+    "translation": "缺乏自信的、羞怯的"
+  },
+  {
+    "id": 82,
+    "word": "Digress",
+    "pos": "v.",
+    "translation": "離題、走向岔道"
+  },
+  {
+    "id": 83,
+    "word": "Dirge",
+    "pos": "n.",
+    "translation": "輓歌、哀樂"
+  },
+  {
+    "id": 84,
+    "word": "Discern",
+    "pos": "v.",
+    "translation": "辨別、看出"
+  },
+  {
+    "id": 85,
+    "word": "Discrepancy",
+    "pos": "n.",
+    "translation": "差異、不一致"
+  },
+  {
+    "id": 86,
+    "word": "Disparate",
+    "pos": "adj.",
+    "translation": "迥然不同的"
+  },
+  {
+    "id": 87,
+    "word": "Dissemble",
+    "pos": "v.",
+    "translation": "掩飾、假裝"
+  },
+  {
+    "id": 88,
+    "word": "Disseminate",
+    "pos": "v.",
+    "translation": "散佈、傳播"
+  },
+  {
+    "id": 89,
+    "word": "Dissonance",
+    "pos": "n.",
+    "translation": "不和諧、刺耳的聲音"
+  },
+  {
+    "id": 90,
+    "word": "Diverge",
+    "pos": "v.",
+    "translation": "分歧、偏離"
+  },
+  {
+    "id": 91,
+    "word": "Dogmatic",
+    "pos": "adj.",
+    "translation": "教條的、武斷的"
+  },
+  {
+    "id": 92,
+    "word": "Ebullient",
+    "pos": "adj.",
+    "translation": "熱情奔放的"
+  },
+  {
+    "id": 93,
+    "word": "Eclectic",
+    "pos": "adj.",
+    "translation": "折衷的、綜合的"
+  },
+  {
+    "id": 94,
+    "word": "Efficacy",
+    "pos": "n.",
+    "translation": "功效、效力"
+  },
+  {
+    "id": 95,
+    "word": "Elegy",
+    "pos": "n.",
+    "translation": "輓歌、哀歌"
+  },
+  {
+    "id": 96,
+    "word": "Elicit",
+    "pos": "v.",
+    "translation": "引出、探出"
+  },
+  {
+    "id": 97,
+    "word": "Eloquent",
+    "pos": "adj.",
+    "translation": "雄辯的、有口才的"
+  },
+  {
+    "id": 98,
+    "word": "Elucidate",
+    "pos": "v.",
+    "translation": "闡明、解釋"
+  },
+  {
+    "id": 99,
+    "word": "Embellish",
+    "pos": "v.",
+    "translation": "裝飾、潤飾"
+  },
+  {
+    "id": 100,
+    "word": "Empirical",
+    "pos": "adj.",
+    "translation": "經驗主義的、根據實驗的"
+  },
+  {
+    "id": 101,
+    "word": "Endemic",
+    "pos": "adj.",
+    "translation": "地方性的、特有的"
+  },
+  {
+    "id": 102,
+    "word": "Enervate",
+    "pos": "v.",
+    "translation": "使衰弱、使失去活力"
+  },
+  {
+    "id": 103,
+    "word": "Engender",
+    "pos": "v.",
+    "translation": "產生、引起"
+  },
+  {
+    "id": 104,
+    "word": "Enigma",
+    "pos": "n.",
+    "translation": "謎、難以理解的事物"
+  },
+  {
+    "id": 105,
+    "word": "Ephemeral",
+    "pos": "adj.",
+    "translation": "短暫的"
+  },
+  {
+    "id": 106,
+    "word": "Equivocate",
+    "pos": "v.",
+    "translation": "含糊其辭、模稜兩可地說"
+  },
+  {
+    "id": 107,
+    "word": "Erratic",
+    "pos": "adj.",
+    "translation": "不穩定的、古怪的"
+  },
+  {
+    "id": 108,
+    "word": "Erudite",
+    "pos": "adj.",
+    "translation": "博學的、有學問的"
+  },
+  {
+    "id": 109,
+    "word": "Esoteric",
+    "pos": "adj.",
+    "translation": "深奧的、只有少數人懂的"
+  },
+  {
+    "id": 110,
+    "word": "Eulogy",
+    "pos": "n.",
+    "translation": "頌詞、悼詞"
+  },
+  {
+    "id": 111,
+    "word": "Euphemism",
+    "pos": "n.",
+    "translation": "委婉語、婉辭"
+  },
+  {
+    "id": 112,
+    "word": "Exacerbate",
+    "pos": "v.",
+    "translation": "惡化、加劇"
+  },
+  {
+    "id": 113,
+    "word": "Exculpate",
+    "pos": "v.",
+    "translation": "開脫、證明無罪"
+  },
+  {
+    "id": 114,
+    "word": "Exigent",
+    "pos": "adj.",
+    "translation": "緊急的、迫切的"
+  },
+  {
+    "id": 115,
+    "word": "Exonerate",
+    "pos": "v.",
+    "translation": "免除責任、宣布無罪"
+  },
+  {
+    "id": 116,
+    "word": "Extrapolate",
+    "pos": "v.",
+    "translation": "推斷、外推"
+  },
+  {
+    "id": 117,
+    "word": "Facetious",
+    "pos": "adj.",
+    "translation": "詼諧的、愛開玩笑的"
+  },
+  {
+    "id": 118,
+    "word": "Fallacy",
+    "pos": "n.",
+    "translation": "謬誤、錯誤的推論"
+  },
+  {
+    "id": 119,
+    "word": "Fastidious",
+    "pos": "adj.",
+    "translation": "挑剔的、難以取悅的"
+  },
+  {
+    "id": 120,
+    "word": "Fathom",
+    "pos": "v.",
+    "translation": "徹底了解、看穿"
+  },
+  {
+    "id": 121,
+    "word": "Fawning",
+    "pos": "adj.",
+    "translation": "奉承的"
+  },
+  {
+    "id": 122,
+    "word": "Fervent",
+    "pos": "adj.",
+    "translation": "熱烈的、強烈的"
+  },
+  {
+    "id": 123,
+    "word": "Fluctuate",
+    "pos": "v.",
+    "translation": "波動、變動"
+  },
+  {
+    "id": 124,
+    "word": "Foment",
+    "pos": "v.",
+    "translation": "煽動、挑起"
+  },
+  {
+    "id": 125,
+    "word": "Forestall",
+    "pos": "v.",
+    "translation": "預先阻止、搶先一步"
+  },
+  {
+    "id": 126,
+    "word": "Fortuitous",
+    "pos": "adj.",
+    "translation": "偶然的、意外的"
+  },
+  {
+    "id": 127,
+    "word": "Frugal",
+    "pos": "adj.",
+    "translation": "節儉的、樸素的"
+  },
+  {
+    "id": 128,
+    "word": "Garrulous",
+    "pos": "adj.",
+    "translation": "喋喋不休的、多嘴的"
+  },
+  {
+    "id": 129,
+    "word": "Gregarious",
+    "pos": "adj.",
+    "translation": "社交的、群居的"
+  },
+  {
+    "id": 130,
+    "word": "Guile",
+    "pos": "n.",
+    "translation": "狡詐、欺騙"
+  },
+  {
+    "id": 131,
+    "word": "Gullible",
+    "pos": "adj.",
+    "translation": "易受騙的、輕信的"
+  },
+  {
+    "id": 132,
+    "word": "Hackneyed",
+    "pos": "adj.",
+    "translation": "陳腐的、老套的"
+  },
+  {
+    "id": 133,
+    "word": "Halcyon",
+    "pos": "adj.",
+    "translation": "平靜的、幸福的"
+  },
+  {
+    "id": 134,
+    "word": "Harangue",
+    "pos": "n.",
+    "translation": "長篇大論、慷慨激昂的演講"
+  },
+  {
+    "id": 135,
+    "word": "Hedonism",
+    "pos": "n.",
+    "translation": "享樂主義"
+  },
+  {
+    "id": 136,
+    "word": "Hegemony",
+    "pos": "n.",
+    "translation": "霸權、領導權"
+  },
+  {
+    "id": 137,
+    "word": "Heresy",
+    "pos": "n.",
+    "translation": "異端邪說、異教"
+  },
+  {
+    "id": 138,
+    "word": "Heterogeneous",
+    "pos": "adj.",
+    "translation": "異質的"
+  },
+  {
+    "id": 139,
+    "word": "Hierarchy",
+    "pos": "n.",
+    "translation": "階層、等級制度"
+  },
+  {
+    "id": 140,
+    "word": "Homogeneous",
+    "pos": "adj.",
+    "translation": "同質的、同類的"
+  },
+  {
+    "id": 141,
+    "word": "Hyperbole",
+    "pos": "n.",
+    "translation": "誇張法、誇張的言詞"
+  },
+  {
+    "id": 142,
+    "word": "Iconoclast",
+    "pos": "n.",
+    "translation": "反傳統者、打破舊習的人"
+  },
+  {
+    "id": 143,
+    "word": "Idiosyncrasy",
+    "pos": "n.",
+    "translation": "癖好、特質"
+  },
+  {
+    "id": 144,
+    "word": "Ignominious",
+    "pos": "adj.",
+    "translation": "可恥的、不光彩的"
+  },
+  {
+    "id": 145,
+    "word": "Illicit",
+    "pos": "adj.",
+    "translation": "非法的、違禁的"
+  },
+  {
+    "id": 146,
+    "word": "Immutable",
+    "pos": "adj.",
+    "translation": "不可變的、永恆的"
+  },
+  {
+    "id": 147,
+    "word": "Impartial",
+    "pos": "adj.",
+    "translation": "公平的、無私的"
+  },
+  {
+    "id": 148,
+    "word": "Impeccable",
+    "pos": "adj.",
+    "translation": "無懈可擊的、完美的"
+  },
+  {
+    "id": 149,
+    "word": "Impediment",
+    "pos": "n.",
+    "translation": "障礙、妨礙物"
+  },
+  {
+    "id": 150,
+    "word": "Impetus",
+    "pos": "n.",
+    "translation": "推動力、促進"
+  },
+  {
+    "id": 151,
+    "word": "Dictate",
+    "pos": "v.",
+    "translation": "規定、決定"
+  },
+  {
+    "id": 152,
+    "word": "Dimension",
+    "pos": "n.",
+    "translation": "尺寸、維度"
+  },
+  {
+    "id": 153,
+    "word": "Diminish",
+    "pos": "v.",
+    "translation": "減少、削弱"
+  },
+  {
+    "id": 154,
+    "word": "Discrete",
+    "pos": "adj.",
+    "translation": "離散的、不連續的"
+  },
+  {
+    "id": 155,
+    "word": "Discriminate",
+    "pos": "v.",
+    "translation": "歧視、區別"
+  },
+  {
+    "id": 156,
+    "word": "Displace",
+    "pos": "v.",
+    "translation": "取代、移置"
+  },
+  {
+    "id": 157,
+    "word": "Display",
+    "pos": "v./n.",
+    "translation": "顯示、展示"
+  },
+  {
+    "id": 158,
+    "word": "Dispose",
+    "pos": "v.",
+    "translation": "處理、處置"
+  },
+  {
+    "id": 159,
+    "word": "Disproportionate",
+    "pos": "adj.",
+    "translation": "不成比例的"
+  },
+  {
+    "id": 160,
+    "word": "Dispute",
+    "pos": "n./v.",
+    "translation": "爭論、糾紛"
+  },
+  {
+    "id": 161,
+    "word": "Distort",
+    "pos": "v.",
+    "translation": "扭曲、曲解"
+  },
+  {
+    "id": 162,
+    "word": "Distribute",
+    "pos": "v.",
+    "translation": "分配、分發"
+  },
+  {
+    "id": 163,
+    "word": "Diverse",
+    "pos": "adj.",
+    "translation": "多樣的、不同的"
+  },
+  {
+    "id": 164,
+    "word": "Document",
+    "pos": "n./v.",
+    "translation": "文件、記錄"
+  },
+  {
+    "id": 165,
+    "word": "Domain",
+    "pos": "n.",
+    "translation": "領域、網域"
+  },
+  {
+    "id": 166,
+    "word": "Domestic",
+    "pos": "adj.",
+    "translation": "國內的、家庭的"
+  },
+  {
+    "id": 167,
+    "word": "Dominate",
+    "pos": "v.",
+    "translation": "支配、佔優勢"
+  },
+  {
+    "id": 168,
+    "word": "Draft",
+    "pos": "n./v.",
+    "translation": "草稿、起草"
+  },
+  {
+    "id": 169,
+    "word": "Drama",
+    "pos": "n.",
+    "translation": "戲劇、戲劇性事件"
+  },
+  {
+    "id": 170,
+    "word": "Duration",
+    "pos": "n.",
+    "translation": "持續時間"
+  },
+  {
+    "id": 171,
+    "word": "Dynamic",
+    "pos": "adj./n.",
+    "translation": "動態的、動力"
+  },
+  {
+    "id": 172,
+    "word": "Economy",
+    "pos": "n.",
+    "translation": "經濟、節約"
+  },
+  {
+    "id": 173,
+    "word": "Edit",
+    "pos": "v.",
+    "translation": "編輯、修改"
+  },
+  {
+    "id": 174,
+    "word": "Element",
+    "pos": "n.",
+    "translation": "元素、要素"
+  },
+  {
+    "id": 175,
+    "word": "Eliminate",
+    "pos": "v.",
+    "translation": "消除、淘汰"
+  },
+  {
+    "id": 176,
+    "word": "Emerge",
+    "pos": "v.",
+    "translation": "浮現、出現"
+  },
+  {
+    "id": 177,
+    "word": "Emphasis",
+    "pos": "n.",
+    "translation": "強調、重點"
+  },
+  {
+    "id": 178,
+    "word": "Empirical",
+    "pos": "adj.",
+    "translation": "經驗主義的"
+  },
+  {
+    "id": 179,
+    "word": "Enable",
+    "pos": "v.",
+    "translation": "使能夠"
+  },
+  {
+    "id": 180,
+    "word": "Encounter",
+    "pos": "v./n.",
+    "translation": "遭遇、遇到"
+  },
+  {
+    "id": 181,
+    "word": "Energy",
+    "pos": "n.",
+    "translation": "能量、精力"
+  },
+  {
+    "id": 182,
+    "word": "Enforce",
+    "pos": "v.",
+    "translation": "執行、強迫"
+  },
+  {
+    "id": 183,
+    "word": "Enhance",
+    "pos": "v.",
+    "translation": "提高、增強"
+  },
+  {
+    "id": 184,
+    "word": "Enormous",
+    "pos": "adj.",
+    "translation": "巨大的、龐大的"
+  },
+  {
+    "id": 185,
+    "word": "Ensure",
+    "pos": "v.",
+    "translation": "確保、保證"
+  },
+  {
+    "id": 186,
+    "word": "Entity",
+    "pos": "n.",
+    "translation": "實體、存在"
+  },
+  {
+    "id": 187,
+    "word": "Environment",
+    "pos": "n.",
+    "translation": "環境"
+  },
+  {
+    "id": 188,
+    "word": "Equate",
+    "pos": "v.",
+    "translation": "使相等、等同"
+  },
+  {
+    "id": 189,
+    "word": "Equip",
+    "pos": "v.",
+    "translation": "裝備、配備"
+  },
+  {
+    "id": 190,
+    "word": "Equivalent",
+    "pos": "adj./n.",
+    "translation": "等值的、相等物"
+  },
+  {
+    "id": 191,
+    "word": "Error",
+    "pos": "n.",
+    "translation": "錯誤、誤差"
+  },
+  {
+    "id": 192,
+    "word": "Establish",
+    "pos": "v.",
+    "translation": "建立、證實"
+  },
+  {
+    "id": 193,
+    "word": "Estate",
+    "pos": "n.",
+    "translation": "地產、財產"
+  },
+  {
+    "id": 194,
+    "word": "Estimate",
+    "pos": "v./n.",
+    "translation": "估計、估算"
+  },
+  {
+    "id": 195,
+    "word": "Evaluate",
+    "pos": "v.",
+    "translation": "評估、評價"
+  },
+  {
+    "id": 196,
+    "word": "Eventual",
+    "pos": "adj.",
+    "translation": "最終的"
+  },
+  {
+    "id": 197,
+    "word": "Evident",
+    "pos": "adj.",
+    "translation": "明顯的、明白的"
+  },
+  {
+    "id": 198,
+    "word": "Evolve",
+    "pos": "v.",
+    "translation": "演化、發展"
+  },
+  {
+    "id": 199,
+    "word": "Exceed",
+    "pos": "v.",
+    "translation": "超過、超出"
+  },
+  {
+    "id": 200,
+    "word": "Exclude",
+    "pos": "v.",
+    "translation": "排除、不包括"
+  },
+  {
+    "id": 201,
+    "word": "Exhibit",
+    "pos": "v./n.",
+    "translation": "展示、展覽"
+  },
+  {
+    "id": 202,
+    "word": "Expand",
+    "pos": "v.",
+    "translation": "擴大、展開"
+  },
+  {
+    "id": 204,
+    "word": "Explicit",
+    "pos": "adj.",
+    "translation": "明確的、清楚的"
+  },
+  {
+    "id": 205,
+    "word": "Exploit",
+    "pos": "v.",
+    "translation": "開發、利用"
+  },
+  {
+    "id": 206,
+    "word": "Export",
+    "pos": "v./n.",
+    "translation": "出口、輸出"
+  },
+  {
+    "id": 207,
+    "word": "Expose",
+    "pos": "v.",
+    "translation": "暴露、揭露"
+  },
+  {
+    "id": 208,
+    "word": "External",
+    "pos": "adj.",
+    "translation": "外部的"
+  },
+  {
+    "id": 209,
+    "word": "Extract",
+    "pos": "v./n.",
+    "translation": "提取、摘錄"
+  },
+  {
+    "id": 210,
+    "word": "Facilitate",
+    "pos": "v.",
+    "translation": "促進、使便利"
+  },
+  {
+    "id": 211,
+    "word": "Factor",
+    "pos": "n.",
+    "translation": "因素、要素"
+  },
+  {
+    "id": 212,
+    "word": "Feature",
+    "pos": "n./v.",
+    "translation": "特徵、特色"
+  },
+  {
+    "id": 213,
+    "word": "Federal",
+    "pos": "adj.",
+    "translation": "聯邦的"
+  },
+  {
+    "id": 214,
+    "word": "Fee",
+    "pos": "n.",
+    "translation": "費用"
+  },
+  {
+    "id": 215,
+    "word": "File",
+    "pos": "n./v.",
+    "translation": "檔案、提出"
+  },
+  {
+    "id": 216,
+    "word": "Final",
+    "pos": "adj./n.",
+    "translation": "最終的、決賽"
+  },
+  {
+    "id": 217,
+    "word": "Finance",
+    "pos": "n./v.",
+    "translation": "金融、資助"
+  },
+  {
+    "id": 218,
+    "word": "Finite",
+    "pos": "adj.",
+    "translation": "有限的"
+  },
+  {
+    "id": 219,
+    "word": "Flexible",
+    "pos": "adj.",
+    "translation": "靈活的、彈性的"
+  },
+  {
+    "id": 220,
+    "word": "Fluctuate",
+    "pos": "v.",
+    "translation": "波動、變動"
+  },
+  {
+    "id": 221,
+    "word": "Focus",
+    "pos": "n./v.",
+    "translation": "焦點、集中"
+  },
+  {
+    "id": 222,
+    "word": "Format",
+    "pos": "n./v.",
+    "translation": "格式、編排"
+  },
+  {
+    "id": 223,
+    "word": "Formula",
+    "pos": "n.",
+    "translation": "公式、配方"
+  },
+  {
+    "id": 224,
+    "word": "Forthcoming",
+    "pos": "adj.",
+    "translation": "即將到來的"
+  },
+  {
+    "id": 225,
+    "word": "Foundation",
+    "pos": "n.",
+    "translation": "基礎、基金會"
+  },
+  {
+    "id": 226,
+    "word": "Found",
+    "pos": "v.",
+    "translation": "建立、創立"
+  },
+  {
+    "id": 227,
+    "word": "Framework",
+    "pos": "n.",
+    "translation": "架構、體制"
+  },
+  {
+    "id": 228,
+    "word": "Function",
+    "pos": "n./v.",
+    "translation": "功能、運作"
+  },
+  {
+    "id": 229,
+    "word": "Fund",
+    "pos": "n./v.",
+    "translation": "資金、資助"
+  },
+  {
+    "id": 230,
+    "word": "Fundamental",
+    "pos": "adj.",
+    "translation": "基礎的、根本的"
+  },
+  {
+    "id": 231,
+    "word": "Furthermore",
+    "pos": "adv.",
+    "translation": "此外、而且"
+  },
+  {
+    "id": 232,
+    "word": "Gender",
+    "pos": "n.",
+    "translation": "性別"
+  },
+  {
+    "id": 233,
+    "word": "Generate",
+    "pos": "v.",
+    "translation": "產生、引起"
+  },
+  {
+    "id": 234,
+    "word": "Generation",
+    "pos": "n.",
+    "translation": "世代、產生"
+  },
+  {
+    "id": 235,
+    "word": "Globe",
+    "pos": "n.",
+    "translation": "地球、球體"
+  },
+  {
+    "id": 236,
+    "word": "Goal",
+    "pos": "n.",
+    "translation": "目標"
+  },
+  {
+    "id": 237,
+    "word": "Grade",
+    "pos": "n./v.",
+    "translation": "等級、評分"
+  },
+  {
+    "id": 238,
+    "word": "Grant",
+    "pos": "v./n.",
+    "translation": "授予、補助金"
+  },
+  {
+    "id": 239,
+    "word": "Guarantee",
+    "pos": "v./n.",
+    "translation": "保證、擔保"
+  },
+  {
+    "id": 240,
+    "word": "Guideline",
+    "pos": "n.",
+    "translation": "指導方針"
+  },
+  {
+    "id": 241,
+    "word": "Hence",
+    "pos": "adv.",
+    "translation": "因此、所以"
+  },
+  {
+    "id": 242,
+    "word": "Hierarchy",
+    "pos": "n.",
+    "translation": "階層、等級制度"
+  },
+  {
+    "id": 243,
+    "word": "Highlight",
+    "pos": "v./n.",
+    "translation": "強調、最精彩部分"
+  },
+  {
+    "id": 244,
+    "word": "Hypothesis",
+    "pos": "n.",
+    "translation": "假設、假說"
+  },
+  {
+    "id": 245,
+    "word": "Identical",
+    "pos": "adj.",
+    "translation": "完全相同的"
+  },
+  {
+    "id": 246,
+    "word": "Identify",
+    "pos": "v.",
+    "translation": "識別、認出"
+  },
+  {
+    "id": 247,
+    "word": "Ideology",
+    "pos": "n.",
+    "translation": "意識形態"
+  },
+  {
+    "id": 248,
+    "word": "Ignorance",
+    "pos": "n.",
+    "translation": "無知、愚昧"
+  },
+  {
+    "id": 249,
+    "word": "Illustrate",
+    "pos": "v.",
+    "translation": "說明、圖解"
+  },
+  {
+    "id": 250,
+    "word": "Image",
+    "pos": "n.",
+    "translation": "影像、形象"
+  },
+  {
+    "id": 251,
+    "word": "Immigrate",
+    "pos": "v.",
+    "translation": "移居入境"
+  },
+  {
+    "id": 252,
+    "word": "Impact",
+    "pos": "n./v.",
+    "translation": "影響、衝擊"
+  },
+  {
+    "id": 253,
+    "word": "Implement",
+    "pos": "v.",
+    "translation": "實施、執行"
+  },
+  {
+    "id": 254,
+    "word": "Implicate",
+    "pos": "v.",
+    "translation": "牽連、暗示"
+  },
+  {
+    "id": 255,
+    "word": "Implicit",
+    "pos": "adj.",
+    "translation": "暗示的、含蓄的"
+  },
+  {
+    "id": 256,
+    "word": "Imply",
+    "pos": "v.",
+    "translation": "暗示、意味著"
+  },
+  {
+    "id": 257,
+    "word": "Impose",
+    "pos": "v.",
+    "translation": "強制實行、加負擔"
+  },
+  {
+    "id": 258,
+    "word": "Incentive",
+    "pos": "n.",
+    "translation": "動機、獎勵"
+  },
+  {
+    "id": 259,
+    "word": "Incidence",
+    "pos": "n.",
+    "translation": "發生率"
+  },
+  {
+    "id": 260,
+    "word": "Incline",
+    "pos": "v./n.",
+    "translation": "傾斜、傾向"
+  },
+  {
+    "id": 261,
+    "word": "Income",
+    "pos": "n.",
+    "translation": "收入、所得"
+  },
+  {
+    "id": 262,
+    "word": "Incorporate",
+    "pos": "v.",
+    "translation": "包含、併入"
+  },
+  {
+    "id": 263,
+    "word": "Index",
+    "pos": "n./v.",
+    "translation": "指數、索引"
+  },
+  {
+    "id": 264,
+    "word": "Indicate",
+    "pos": "v.",
+    "translation": "指出、顯示"
+  },
+  {
+    "id": 265,
+    "word": "Individual",
+    "pos": "adj./n.",
+    "translation": "個別的、個人"
+  },
+  {
+    "id": 266,
+    "word": "Induce",
+    "pos": "v.",
+    "translation": "引誘、引起"
+  },
+  {
+    "id": 267,
+    "word": "Inevitable",
+    "pos": "adj.",
+    "translation": "不可避免的"
+  },
+  {
+    "id": 268,
+    "word": "Infer",
+    "pos": "v.",
+    "translation": "推斷、推論"
+  },
+  {
+    "id": 269,
+    "word": "Infrastructure",
+    "pos": "n.",
+    "translation": "基礎建設"
+  },
+  {
+    "id": 270,
+    "word": "Inherent",
+    "pos": "adj.",
+    "translation": "固有的、內在的"
+  },
+  {
+    "id": 271,
+    "word": "Inhibit",
+    "pos": "v.",
+    "translation": "抑制、阻礙"
+  },
+  {
+    "id": 272,
+    "word": "Initial",
+    "pos": "adj.",
+    "translation": "最初的"
+  },
+  {
+    "id": 273,
+    "word": "Initiate",
+    "pos": "v.",
+    "translation": "開始、發起"
+  },
+  {
+    "id": 274,
+    "word": "Injure",
+    "pos": "v.",
+    "translation": "傷害、損害"
+  },
+  {
+    "id": 275,
+    "word": "Innovate",
+    "pos": "v.",
+    "translation": "創新、改革"
+  },
+  {
+    "id": 276,
+    "word": "Input",
+    "pos": "n./v.",
+    "translation": "輸入、投入"
+  },
+  {
+    "id": 277,
+    "word": "Insert",
+    "pos": "v.",
+    "translation": "插入、嵌入"
+  },
+  {
+    "id": 278,
+    "word": "Insight",
+    "pos": "n.",
+    "translation": "洞察力、見解"
+  },
+  {
+    "id": 279,
+    "word": "Inspect",
+    "pos": "v.",
+    "translation": "檢查、審查"
+  },
+  {
+    "id": 280,
+    "word": "Instance",
+    "pos": "n.",
+    "translation": "例子、實例"
+  },
+  {
+    "id": 281,
+    "word": "Institute",
+    "pos": "n./v.",
+    "translation": "機構、建立"
+  },
+  {
+    "id": 282,
+    "word": "Instruct",
+    "pos": "v.",
+    "translation": "指示、指導"
+  },
+  {
+    "id": 283,
+    "word": "Integral",
+    "pos": "adj.",
+    "translation": "不可或缺的"
+  },
+  {
+    "id": 284,
+    "word": "Integrate",
+    "pos": "v.",
+    "translation": "整合、結合"
+  },
+  {
+    "id": 285,
+    "word": "Integrity",
+    "pos": "n.",
+    "translation": "完整、誠實"
+  },
+  {
+    "id": 286,
+    "word": "Intelligence",
+    "pos": "n.",
+    "translation": "智力、情報"
+  },
+  {
+    "id": 287,
+    "word": "Intense",
+    "pos": "adj.",
+    "translation": "強烈的、極度的"
+  },
+  {
+    "id": 288,
+    "word": "Interact",
+    "pos": "v.",
+    "translation": "互動、影響"
+  },
+  {
+    "id": 289,
+    "word": "Intermediate",
+    "pos": "adj.",
+    "translation": "中間的、中級的"
+  },
+  {
+    "id": 290,
+    "word": "Internal",
+    "pos": "adj.",
+    "translation": "內部的"
+  },
+  {
+    "id": 291,
+    "word": "Interpret",
+    "pos": "v.",
+    "translation": "解釋、翻譯"
+  },
+  {
+    "id": 292,
+    "word": "Interval",
+    "pos": "n.",
+    "translation": "間隔、距離"
+  },
+  {
+    "id": 293,
+    "word": "Intervene",
+    "pos": "v.",
+    "translation": "干預、介入"
+  },
+  {
+    "id": 294,
+    "word": "Intrinsic",
+    "pos": "adj.",
+    "translation": "內在的、本質的"
+  },
+  {
+    "id": 295,
+    "word": "Invest",
+    "pos": "v.",
+    "translation": "投資、投入"
+  },
+  {
+    "id": 296,
+    "word": "Investigate",
+    "pos": "v.",
+    "translation": "調查、研究"
+  },
+  {
+    "id": 297,
+    "word": "Invoke",
+    "pos": "v.",
+    "translation": "祈求、呼叫"
+  },
+  {
+    "id": 298,
+    "word": "Involve",
+    "pos": "v.",
+    "translation": "包含、牽涉"
+  },
+  {
+    "id": 299,
+    "word": "Isolate",
+    "pos": "v.",
+    "translation": "隔離、孤立"
+  },
+  {
+    "id": 300,
+    "word": "Issue",
+    "pos": "n./v.",
+    "translation": "議題、發行"
+  },
+  {
+    "id": 301,
+    "word": "Item",
+    "pos": "n.",
+    "translation": "項目、條款"
+  },
+  {
+    "id": 302,
+    "word": "Journal",
+    "pos": "n.",
+    "translation": "期刊、日誌"
+  },
+  {
+    "id": 303,
+    "word": "Justify",
+    "pos": "v.",
+    "translation": "證明...是正當的"
+  },
+  {
+    "id": 304,
+    "word": "Label",
+    "pos": "n./v.",
+    "translation": "標籤、標示"
+  },
+  {
+    "id": 305,
+    "word": "Labor",
+    "pos": "n./v.",
+    "translation": "勞動、勞工"
+  },
+  {
+    "id": 306,
+    "word": "Layer",
+    "pos": "n.",
+    "translation": "層"
+  },
+  {
+    "id": 307,
+    "word": "Lecture",
+    "pos": "n./v.",
+    "translation": "演講、講課"
+  },
+  {
+    "id": 308,
+    "word": "Legal",
+    "pos": "adj.",
+    "translation": "法律的、合法的"
+  },
+  {
+    "id": 309,
+    "word": "Legislate",
+    "pos": "v.",
+    "translation": "立法"
+  },
+  {
+    "id": 310,
+    "word": "Levy",
+    "pos": "v./n.",
+    "translation": "徵收、稅款"
+  },
+  {
+    "id": 311,
+    "word": "Liberal",
+    "pos": "adj.",
+    "translation": "自由的、開明的"
+  },
+  {
+    "id": 312,
+    "word": "License",
+    "pos": "n./v.",
+    "translation": "執照、授權"
+  },
+  {
+    "id": 313,
+    "word": "Likewise",
+    "pos": "adv.",
+    "translation": "同樣地"
+  },
+  {
+    "id": 314,
+    "word": "Link",
+    "pos": "n./v.",
+    "translation": "連結、關聯"
+  },
+  {
+    "id": 315,
+    "word": "Locate",
+    "pos": "v.",
+    "translation": "找出、位於"
+  },
+  {
+    "id": 316,
+    "word": "Logic",
+    "pos": "n.",
+    "translation": "邏輯"
+  },
+  {
+    "id": 317,
+    "word": "Maintain",
+    "pos": "v.",
+    "translation": "維持、保養"
+  },
+  {
+    "id": 318,
+    "word": "Major",
+    "pos": "adj./n.",
+    "translation": "主要的、主修"
+  },
+  {
+    "id": 319,
+    "word": "Manipulate",
+    "pos": "v.",
+    "translation": "操縱、控制"
+  },
+  {
+    "id": 320,
+    "word": "Manual",
+    "pos": "adj./n.",
+    "translation": "手動的、手冊"
+  },
+  {
+    "id": 321,
+    "word": "Margin",
+    "pos": "n.",
+    "translation": "邊緣、利潤"
+  },
+  {
+    "id": 322,
+    "word": "Mature",
+    "pos": "adj.",
+    "translation": "成熟的"
+  },
+  {
+    "id": 323,
+    "word": "Maximize",
+    "pos": "v.",
+    "translation": "最大化"
+  },
+  {
+    "id": 324,
+    "word": "Mechanism",
+    "pos": "n.",
+    "translation": "機制、機械裝置"
+  },
+  {
+    "id": 325,
+    "word": "Media",
+    "pos": "n.",
+    "translation": "媒體、介質"
+  },
+  {
+    "id": 326,
+    "word": "Mediate",
+    "pos": "v.",
+    "translation": "調停、斡旋"
+  },
+  {
+    "id": 327,
+    "word": "Medical",
+    "pos": "adj.",
+    "translation": "醫療的、醫學的"
+  },
+  {
+    "id": 329,
+    "word": "Mental",
+    "pos": "adj.",
+    "translation": "心理的、精神的"
+  },
+  {
+    "id": 330,
+    "word": "Method",
+    "pos": "n.",
+    "translation": "方法"
+  },
+  {
+    "id": 331,
+    "word": "Migrate",
+    "pos": "v.",
+    "translation": "遷移、移居"
+  },
+  {
+    "id": 332,
+    "word": "Military",
+    "pos": "adj./n.",
+    "translation": "軍事的、軍隊"
+  },
+  {
+    "id": 333,
+    "word": "Minimal",
+    "pos": "adj.",
+    "translation": "最小的、極少的"
+  },
+  {
+    "id": 334,
+    "word": "Minimize",
+    "pos": "v.",
+    "translation": "最小化"
+  },
+  {
+    "id": 336,
+    "word": "Ministry",
+    "pos": "n.",
+    "translation": "部門、部"
+  },
+  {
+    "id": 337,
+    "word": "Minor",
+    "pos": "adj./n.",
+    "translation": "次要的、未成年人"
+  },
+  {
+    "id": 338,
+    "word": "Mode",
+    "pos": "n.",
+    "translation": "模式、方式"
+  },
+  {
+    "id": 339,
+    "word": "Modify",
+    "pos": "v.",
+    "translation": "修改、更改"
+  },
+  {
+    "id": 340,
+    "word": "Monitor",
+    "pos": "v./n.",
+    "translation": "監控、顯示器"
+  },
+  {
+    "id": 341,
+    "word": "Motive",
+    "pos": "n.",
+    "translation": "動機"
+  },
+  {
+    "id": 342,
+    "word": "Mutual",
+    "pos": "adj.",
+    "translation": "相互的、共同的"
+  },
+  {
+    "id": 343,
+    "word": "Negate",
+    "pos": "v.",
+    "translation": "否定、使無效"
+  },
+  {
+    "id": 344,
+    "word": "Network",
+    "pos": "n.",
+    "translation": "網路"
+  },
+  {
+    "id": 345,
+    "word": "Neutral",
+    "pos": "adj.",
+    "translation": "中立的"
+  },
+  {
+    "id": 346,
+    "word": "Nevertheless",
+    "pos": "adv.",
+    "translation": "然而、儘管如此"
+  },
+  {
+    "id": 347,
+    "word": "Nonetheless",
+    "pos": "adv.",
+    "translation": "但是、儘管如此"
+  },
+  {
+    "id": 348,
+    "word": "Normal",
+    "pos": "adj.",
+    "translation": "正常的、標準的"
+  },
+  {
+    "id": 349,
+    "word": "Notion",
+    "pos": "n.",
+    "translation": "概念、觀念"
+  },
+  {
+    "id": 350,
+    "word": "Notwithstanding",
+    "pos": "prep.",
+    "translation": "儘管"
+  },
+  {
+    "id": 351,
+    "word": "Nuclear",
+    "pos": "adj.",
+    "translation": "核能的、細胞核的"
+  },
+  {
+    "id": 353,
+    "word": "Obtain",
+    "pos": "v.",
+    "translation": "獲得、得到"
+  },
+  {
+    "id": 354,
+    "word": "Obvious",
+    "pos": "adj.",
+    "translation": "明顯的"
+  },
+  {
+    "id": 355,
+    "word": "Occupy",
+    "pos": "v.",
+    "translation": "佔領、佔用"
+  },
+  {
+    "id": 356,
+    "word": "Occur",
+    "pos": "v.",
+    "translation": "發生、出現"
+  },
+  {
+    "id": 357,
+    "word": "Odd",
+    "pos": "adj.",
+    "translation": "奇怪的、奇數的"
+  },
+  {
+    "id": 358,
+    "word": "Offset",
+    "pos": "v./n.",
+    "translation": "抵銷、補償"
+  },
+  {
+    "id": 359,
+    "word": "Ongoing",
+    "pos": "adj.",
+    "translation": "進行中的"
+  },
+  {
+    "id": 360,
+    "word": "Option",
+    "pos": "n.",
+    "translation": "選項、選擇"
+  },
+  {
+    "id": 361,
+    "word": "Orient",
+    "pos": "v.",
+    "translation": "使適應、確定方向"
+  },
+  {
+    "id": 362,
+    "word": "Outcome",
+    "pos": "n.",
+    "translation": "結果"
+  },
+  {
+    "id": 363,
+    "word": "Output",
+    "pos": "n./v.",
+    "translation": "輸出、產量"
+  },
+  {
+    "id": 365,
+    "word": "Overlap",
+    "pos": "v./n.",
+    "translation": "重疊、部分一致"
+  },
+  {
+    "id": 367,
+    "word": "Panel",
+    "pos": "n.",
+    "translation": "儀表板、專案小組"
+  },
+  {
+    "id": 368,
+    "word": "Paradigm",
+    "pos": "n.",
+    "translation": "典範、範例"
+  },
+  {
+    "id": 369,
+    "word": "Paragraph",
+    "pos": "n.",
+    "translation": "段落"
+  },
+  {
+    "id": 370,
+    "word": "Parallel",
+    "pos": "adj./n.",
+    "translation": "平行的、類似"
+  },
+  {
+    "id": 371,
+    "word": "Parameter",
+    "pos": "n.",
+    "translation": "參數、限制"
+  },
+  {
+    "id": 372,
+    "word": "Participate",
+    "pos": "v.",
+    "translation": "參加、參與"
+  },
+  {
+    "id": 373,
+    "word": "Partner",
+    "pos": "n.",
+    "translation": "夥伴、合夥人"
+  },
+  {
+    "id": 374,
+    "word": "Passive",
+    "pos": "adj.",
+    "translation": "被動的、消極的"
+  },
+  {
+    "id": 375,
+    "word": "Perceive",
+    "pos": "v.",
+    "translation": "察覺、感知"
+  },
+  {
+    "id": 376,
+    "word": "Percent",
+    "pos": "n.",
+    "translation": "百分比"
+  },
+  {
+    "id": 377,
+    "word": "Period",
+    "pos": "n.",
+    "translation": "期間、週期"
+  },
+  {
+    "id": 378,
+    "word": "Persist",
+    "pos": "v.",
+    "translation": "堅持、持續"
+  },
+  {
+    "id": 379,
+    "word": "Perspective",
+    "pos": "n.",
+    "translation": "觀點、視角"
+  },
+  {
+    "id": 380,
+    "word": "Phase",
+    "pos": "n./v.",
+    "translation": "階段、逐步進行"
+  },
+  {
+    "id": 381,
+    "word": "Phenomenon",
+    "pos": "n.",
+    "translation": "現象"
+  },
+  {
+    "id": 382,
+    "word": "Philosophy",
+    "pos": "n.",
+    "translation": "哲學、理念"
+  },
+  {
+    "id": 383,
+    "word": "Physical",
+    "pos": "adj.",
+    "translation": "物理的、身體的"
+  },
+  {
+    "id": 385,
+    "word": "Policy",
+    "pos": "n.",
+    "translation": "政策、方針"
+  },
+  {
+    "id": 386,
+    "word": "Portion",
+    "pos": "n.",
+    "translation": "部分、一份"
+  },
+  {
+    "id": 387,
+    "word": "Pose",
+    "pos": "v.",
+    "translation": "造成、提出"
+  },
+  {
+    "id": 388,
+    "word": "Positive",
+    "pos": "adj.",
+    "translation": "積極的、正面的"
+  },
+  {
+    "id": 389,
+    "word": "Potential",
+    "pos": "adj./n.",
+    "translation": "潛在的、潛力"
+  },
+  {
+    "id": 390,
+    "word": "Practitioner",
+    "pos": "n.",
+    "translation": "從業者、開業醫生"
+  },
+  {
+    "id": 391,
+    "word": "Precede",
+    "pos": "v.",
+    "translation": "在...之前"
+  },
+  {
+    "id": 392,
+    "word": "Precise",
+    "pos": "adj.",
+    "translation": "精確的"
+  },
+  {
+    "id": 393,
+    "word": "Predict",
+    "pos": "v.",
+    "translation": "預測"
+  },
+  {
+    "id": 394,
+    "word": "Predominant",
+    "pos": "adj.",
+    "translation": "佔優勢的、主要的"
+  },
+  {
+    "id": 395,
+    "word": "Preliminary",
+    "pos": "adj.",
+    "translation": "初步的、預備的"
+  },
+  {
+    "id": 396,
+    "word": "Presume",
+    "pos": "v.",
+    "translation": "假定、推測"
+  },
+  {
+    "id": 397,
+    "word": "Previous",
+    "pos": "adj.",
+    "translation": "先前的"
+  },
+  {
+    "id": 398,
+    "word": "Primary",
+    "pos": "adj.",
+    "translation": "首要的、初級的"
+  },
+  {
+    "id": 399,
+    "word": "Prime",
+    "pos": "adj.",
+    "translation": "主要的、最佳的"
+  },
+  {
+    "id": 400,
+    "word": "Principal",
+    "pos": "adj./n.",
+    "translation": "主要的、校長"
+  },
+  {
+    "id": 401,
+    "word": "Principle",
+    "pos": "n.",
+    "translation": "原則、原理"
+  },
+  {
+    "id": 402,
+    "word": "Prior",
+    "pos": "adj.",
+    "translation": "在先的、居先的"
+  },
+  {
+    "id": 403,
+    "word": "Priority",
+    "pos": "n.",
+    "translation": "優先權、優先事項"
+  },
+  {
+    "id": 404,
+    "word": "Proceed",
+    "pos": "v.",
+    "translation": "繼續進行"
+  },
+  {
+    "id": 405,
+    "word": "Process",
+    "pos": "n./v.",
+    "translation": "過程、處理"
+  },
+  {
+    "id": 406,
+    "word": "Professional",
+    "pos": "adj./n.",
+    "translation": "專業的、專業人士"
+  },
+  {
+    "id": 407,
+    "word": "Prohibit",
+    "pos": "v.",
+    "translation": "禁止"
+  },
+  {
+    "id": 408,
+    "word": "Project",
+    "pos": "n./v.",
+    "translation": "計畫、投射"
+  },
+  {
+    "id": 409,
+    "word": "Promote",
+    "pos": "v.",
+    "translation": "促進、提倡"
+  },
+  {
+    "id": 410,
+    "word": "Proportion",
+    "pos": "n.",
+    "translation": "比例、部分"
+  },
+  {
+    "id": 411,
+    "word": "Prospect",
+    "pos": "n.",
+    "translation": "前景、展望"
+  },
+  {
+    "id": 412,
+    "word": "Protocol",
+    "pos": "n.",
+    "translation": "協議、草案"
+  },
+  {
+    "id": 413,
+    "word": "Psychology",
+    "pos": "n.",
+    "translation": "心理學"
+  },
+  {
+    "id": 414,
+    "word": "Publish",
+    "pos": "v.",
+    "translation": "出版、發表"
+  },
+  {
+    "id": 415,
+    "word": "Purchase",
+    "pos": "v./n.",
+    "translation": "購買"
+  },
+  {
+    "id": 416,
+    "word": "Pursue",
+    "pos": "v.",
+    "translation": "追求、從事"
+  },
+  {
+    "id": 417,
+    "word": "Qualitative",
+    "pos": "adj.",
+    "translation": "定性的、質量的"
+  },
+  {
+    "id": 418,
+    "word": "Quote",
+    "pos": "v./n.",
+    "translation": "引用、報價"
+  },
+  {
+    "id": 419,
+    "word": "Radical",
+    "pos": "adj.",
+    "translation": "激進的、根本的"
+  },
+  {
+    "id": 420,
+    "word": "Random",
+    "pos": "adj.",
+    "translation": "隨機的"
+  },
+  {
+    "id": 421,
+    "word": "Range",
+    "pos": "n./v.",
+    "translation": "範圍、涵蓋"
+  },
+  {
+    "id": 422,
+    "word": "Ratio",
+    "pos": "n.",
+    "translation": "比率、比例"
+  },
+  {
+    "id": 423,
+    "word": "Rational",
+    "pos": "adj.",
+    "translation": "理性的、合理的"
+  },
+  {
+    "id": 424,
+    "word": "React",
+    "pos": "v.",
+    "translation": "反應"
+  },
+  {
+    "id": 425,
+    "word": "Recover",
+    "pos": "v.",
+    "translation": "恢復、找回"
+  },
+  {
+    "id": 426,
+    "word": "Refine",
+    "pos": "v.",
+    "translation": "精煉、改善"
+  },
+  {
+    "id": 427,
+    "word": "Regime",
+    "pos": "n.",
+    "translation": "政權、制度"
+  },
+  {
+    "id": 428,
+    "word": "Region",
+    "pos": "n.",
+    "translation": "地區、領域"
+  },
+  {
+    "id": 429,
+    "word": "Register",
+    "pos": "v./n.",
+    "translation": "登記、註冊"
+  },
+  {
+    "id": 430,
+    "word": "Regulate",
+    "pos": "v.",
+    "translation": "管制、調節"
+  },
+  {
+    "id": 431,
+    "word": "Reject",
+    "pos": "v.",
+    "translation": "拒絕、抵制"
+  },
+  {
+    "id": 432,
+    "word": "Relax",
+    "pos": "v.",
+    "translation": "放鬆、放寬"
+  },
+  {
+    "id": 433,
+    "word": "Release",
+    "pos": "v./n.",
+    "translation": "釋放、發布"
+  },
+  {
+    "id": 434,
+    "word": "Relevant",
+    "pos": "adj.",
+    "translation": "相關的、切題的"
+  },
+  {
+    "id": 435,
+    "word": "Reluctance",
+    "pos": "n.",
+    "translation": "不情願、勉強"
+  },
+  {
+    "id": 436,
+    "word": "Rely",
+    "pos": "v.",
+    "translation": "依賴、依靠"
+  },
+  {
+    "id": 437,
+    "word": "Remove",
+    "pos": "v.",
+    "translation": "移除、消除"
+  },
+  {
+    "id": 438,
+    "word": "Require",
+    "pos": "v.",
+    "translation": "需要、要求"
+  },
+  {
+    "id": 439,
+    "word": "Research",
+    "pos": "n./v.",
+    "translation": "研究、調查"
+  },
+  {
+    "id": 440,
+    "word": "Reside",
+    "pos": "v.",
+    "translation": "居住、存在"
+  },
+  {
+    "id": 441,
+    "word": "Resolve",
+    "pos": "v.",
+    "translation": "解決、決心"
+  },
+  {
+    "id": 442,
+    "word": "Resource",
+    "pos": "n.",
+    "translation": "資源"
+  },
+  {
+    "id": 443,
+    "word": "Respond",
+    "pos": "v.",
+    "translation": "回應、反應"
+  },
+  {
+    "id": 444,
+    "word": "Restore",
+    "pos": "v.",
+    "translation": "恢復、修復"
+  },
+  {
+    "id": 445,
+    "word": "Restrain",
+    "pos": "v.",
+    "translation": "抑制、限制"
+  },
+  {
+    "id": 446,
+    "word": "Restrict",
+    "pos": "v.",
+    "translation": "限制、約束"
+  },
+  {
+    "id": 447,
+    "word": "Retain",
+    "pos": "v.",
+    "translation": "保留、保持"
+  },
+  {
+    "id": 448,
+    "word": "Reveal",
+    "pos": "v.",
+    "translation": "揭露、展現"
+  },
+  {
+    "id": 449,
+    "word": "Revenue",
+    "pos": "n.",
+    "translation": "收入、稅收"
+  },
+  {
+    "id": 450,
+    "word": "Reverse",
+    "pos": "v./n.",
+    "translation": "逆轉、反面"
+  },
+  {
+    "id": 451,
+    "word": "Revise",
+    "pos": "v.",
+    "translation": "修訂、校訂"
+  },
+  {
+    "id": 452,
+    "word": "Revolution",
+    "pos": "n.",
+    "translation": "革命、變革"
+  },
+  {
+    "id": 453,
+    "word": "Rigid",
+    "pos": "adj.",
+    "translation": "嚴格的、死板的"
+  },
+  {
+    "id": 454,
+    "word": "Role",
+    "pos": "n.",
+    "translation": "角色、作用"
+  },
+  {
+    "id": 455,
+    "word": "Route",
+    "pos": "n.",
+    "translation": "路線、途徑"
+  },
+  {
+    "id": 456,
+    "word": "Scenario",
+    "pos": "n.",
+    "translation": "情境、劇本"
+  },
+  {
+    "id": 457,
+    "word": "Schedule",
+    "pos": "n./v.",
+    "translation": "計畫表、安排"
+  },
+  {
+    "id": 458,
+    "word": "Scheme",
+    "pos": "n.",
+    "translation": "計畫、方案"
+  },
+  {
+    "id": 459,
+    "word": "Scope",
+    "pos": "n.",
+    "translation": "範圍、領域"
+  },
+  {
+    "id": 460,
+    "word": "Section",
+    "pos": "n.",
+    "translation": "部分、章節"
+  },
+  {
+    "id": 461,
+    "word": "Sector",
+    "pos": "n.",
+    "translation": "部門、領域"
+  },
+  {
+    "id": 463,
+    "word": "Seek",
+    "pos": "v.",
+    "translation": "尋找、追求"
+  },
+  {
+    "id": 465,
+    "word": "Sequence",
+    "pos": "n.",
+    "translation": "順序、序列"
+  },
+  {
+    "id": 466,
+    "word": "Series",
+    "pos": "n.",
+    "translation": "系列、連續"
+  },
+  {
+    "id": 467,
+    "word": "Sex",
+    "pos": "n.",
+    "translation": "性別"
+  },
+  {
+    "id": 468,
+    "word": "Shift",
+    "pos": "n./v.",
+    "translation": "轉變、移動"
+  },
+  {
+    "id": 469,
+    "word": "Significant",
+    "pos": "adj.",
+    "translation": "顯著的、重要的"
+  },
+  {
+    "id": 470,
+    "word": "Similar",
+    "pos": "adj.",
+    "translation": "相似的"
+  },
+  {
+    "id": 471,
+    "word": "Simulate",
+    "pos": "v.",
+    "translation": "模擬"
+  },
+  {
+    "id": 472,
+    "word": "Site",
+    "pos": "n.",
+    "translation": "地點、場所"
+  },
+  {
+    "id": 473,
+    "word": "So-called",
+    "pos": "adj.",
+    "translation": "所謂的"
+  },
+  {
+    "id": 474,
+    "word": "Sole",
+    "pos": "adj.",
+    "translation": "唯一的、單獨的"
+  },
+  {
+    "id": 475,
+    "word": "Somewhat",
+    "pos": "adv.",
+    "translation": "稍微、有些"
+  },
+  {
+    "id": 476,
+    "word": "Source",
+    "pos": "n.",
+    "translation": "來源、出處"
+  },
+  {
+    "id": 477,
+    "word": "Specific",
+    "pos": "adj.",
+    "translation": "特定的、明確的"
+  },
+  {
+    "id": 478,
+    "word": "Specify",
+    "pos": "v.",
+    "translation": "具體說明"
+  },
+  {
+    "id": 479,
+    "word": "Sphere",
+    "pos": "n.",
+    "translation": "領域、球體"
+  },
+  {
+    "id": 480,
+    "word": "Stable",
+    "pos": "adj.",
+    "translation": "穩定的"
+  },
+  {
+    "id": 481,
+    "word": "Statistic",
+    "pos": "n.",
+    "translation": "統計數值"
+  },
+  {
+    "id": 482,
+    "word": "Status",
+    "pos": "n.",
+    "translation": "地位、狀態"
+  },
+  {
+    "id": 483,
+    "word": "Straightforward",
+    "pos": "adj.",
+    "translation": "直接的、簡單的"
+  },
+  {
+    "id": 484,
+    "word": "Strategy",
+    "pos": "n.",
+    "translation": "策略、戰略"
+  },
+  {
+    "id": 485,
+    "word": "Stress",
+    "pos": "n./v.",
+    "translation": "壓力、強調"
+  },
+  {
+    "id": 486,
+    "word": "Structure",
+    "pos": "n.",
+    "translation": "結構、構造"
+  },
+  {
+    "id": 487,
+    "word": "Style",
+    "pos": "n.",
+    "translation": "風格、款式"
+  },
+  {
+    "id": 488,
+    "word": "Submit",
+    "pos": "v.",
+    "translation": "提交、屈服"
+  },
+  {
+    "id": 489,
+    "word": "Subordinate",
+    "pos": "adj./n.",
+    "translation": "次要的、下屬"
+  },
+  {
+    "id": 490,
+    "word": "Subsequent",
+    "pos": "adj.",
+    "translation": "隨後的"
+  },
+  {
+    "id": 491,
+    "word": "Subsidy",
+    "pos": "n.",
+    "translation": "補貼、津貼"
+  },
+  {
+    "id": 492,
+    "word": "Substitute",
+    "pos": "v./n.",
+    "translation": "替代、替代品"
+  },
+  {
+    "id": 493,
+    "word": "Successor",
+    "pos": "n.",
+    "translation": "繼任者、替代物"
+  },
+  {
+    "id": 494,
+    "word": "Sufficient",
+    "pos": "adj.",
+    "translation": "充足的"
+  },
+  {
+    "id": 495,
+    "word": "Sum",
+    "pos": "n./v.",
+    "translation": "總數、總結"
+  },
+  {
+    "id": 496,
+    "word": "Summary",
+    "pos": "n.",
+    "translation": "摘要、總結"
+  },
+  {
+    "id": 497,
+    "word": "Supplement",
+    "pos": "n./v.",
+    "translation": "補充、增補"
+  },
+  {
+    "id": 498,
+    "word": "Survey",
+    "pos": "n./v.",
+    "translation": "調查、勘測"
+  },
+  {
+    "id": 499,
+    "word": "Survive",
+    "pos": "v.",
+    "translation": "倖存、生存"
+  },
+  {
+    "id": 500,
+    "word": "Suspend",
+    "pos": "v.",
+    "translation": "暫停、懸掛"
+  },
+  {
+    "id": 501,
+    "word": "Sustain",
+    "pos": "v.",
+    "translation": "維持、遭受"
+  },
+  {
+    "id": 502,
+    "word": "Symbol",
+    "pos": "n.",
+    "translation": "象徵、符號"
+  },
+  {
+    "id": 503,
+    "word": "Tape",
+    "pos": "n./v.",
+    "translation": "膠帶、錄音"
+  },
+  {
+    "id": 504,
+    "word": "Target",
+    "pos": "n./v.",
+    "translation": "目標、瞄準"
+  },
+  {
+    "id": 505,
+    "word": "Task",
+    "pos": "n.",
+    "translation": "任務、工作"
+  },
+  {
+    "id": 506,
+    "word": "Team",
+    "pos": "n.",
+    "translation": "團隊"
+  },
+  {
+    "id": 507,
+    "word": "Technical",
+    "pos": "adj.",
+    "translation": "技術的、專門的"
+  },
+  {
+    "id": 508,
+    "word": "Technique",
+    "pos": "n.",
+    "translation": "技巧、技術"
+  },
+  {
+    "id": 509,
+    "word": "Technology",
+    "pos": "n.",
+    "translation": "科技、技術"
+  },
+  {
+    "id": 510,
+    "word": "Temporary",
+    "pos": "adj.",
+    "translation": "暫時的"
+  },
+  {
+    "id": 511,
+    "word": "Tense",
+    "pos": "adj.",
+    "translation": "緊張的、拉緊的"
+  },
+  {
+    "id": 512,
+    "word": "Terminate",
+    "pos": "v.",
+    "translation": "終止、結束"
+  },
+  {
+    "id": 513,
+    "word": "Text",
+    "pos": "n.",
+    "translation": "文本、正文"
+  },
+  {
+    "id": 514,
+    "word": "Theme",
+    "pos": "n.",
+    "translation": "主題"
+  },
+  {
+    "id": 515,
+    "word": "Theory",
+    "pos": "n.",
+    "translation": "理論"
+  },
+  {
+    "id": 516,
+    "word": "Thereby",
+    "pos": "adv.",
+    "translation": "因此、從而"
+  },
+  {
+    "id": 517,
+    "word": "Thesis",
+    "pos": "n.",
+    "translation": "論文、論點"
+  },
+  {
+    "id": 518,
+    "word": "Topic",
+    "pos": "n.",
+    "translation": "主題、話題"
+  },
+  {
+    "id": 519,
+    "word": "Trace",
+    "pos": "v./n.",
+    "translation": "追蹤、痕跡"
+  },
+  {
+    "id": 520,
+    "word": "Tradition",
+    "pos": "n.",
+    "translation": "傳統"
+  },
+  {
+    "id": 521,
+    "word": "Transfer",
+    "pos": "v./n.",
+    "translation": "轉移、調動"
+  },
+  {
+    "id": 522,
+    "word": "Transform",
+    "pos": "v.",
+    "translation": "改變、轉換"
+  },
+  {
+    "id": 523,
+    "word": "Transit",
+    "pos": "n.",
+    "translation": "運輸、經過"
+  },
+  {
+    "id": 524,
+    "word": "Transmit",
+    "pos": "v.",
+    "translation": "傳輸、傳染"
+  },
+  {
+    "id": 525,
+    "word": "Transport",
+    "pos": "v./n.",
+    "translation": "運輸、交通"
+  },
+  {
+    "id": 526,
+    "word": "Trend",
+    "pos": "n.",
+    "translation": "趨勢、傾向"
+  },
+  {
+    "id": 527,
+    "word": "Trigger",
+    "pos": "v./n.",
+    "translation": "觸發、引起"
+  },
+  {
+    "id": 528,
+    "word": "Ultimate",
+    "pos": "adj.",
+    "translation": "最終的、極限的"
+  },
+  {
+    "id": 529,
+    "word": "Undergo",
+    "pos": "v.",
+    "translation": "經歷、承受"
+  },
+  {
+    "id": 530,
+    "word": "Underlying",
+    "pos": "adj.",
+    "translation": "潛在的、基礎的"
+  },
+  {
+    "id": 531,
+    "word": "Undertake",
+    "pos": "v.",
+    "translation": "承擔、著手"
+  },
+  {
+    "id": 532,
+    "word": "Uniform",
+    "pos": "adj./n.",
+    "translation": "統一的、制服"
+  },
+  {
+    "id": 533,
+    "word": "Unify",
+    "pos": "v.",
+    "translation": "統一、整合"
+  },
+  {
+    "id": 534,
+    "word": "Unique",
+    "pos": "adj.",
+    "translation": "獨特的"
+  },
+  {
+    "id": 535,
+    "word": "Utilize",
+    "pos": "v.",
+    "translation": "利用、使用"
+  },
+  {
+    "id": 536,
+    "word": "Validity",
+    "pos": "n.",
+    "translation": "有效性、正確性"
+  },
+  {
+    "id": 537,
+    "word": "Variation",
+    "pos": "n.",
+    "translation": "變化、變異"
+  },
+  {
+    "id": 538,
+    "word": "Vary",
+    "pos": "v.",
+    "translation": "變化、不同"
+  },
+  {
+    "id": 539,
+    "word": "Vehicle",
+    "pos": "n.",
+    "translation": "車輛、媒介"
+  },
+  {
+    "id": 540,
+    "word": "Version",
+    "pos": "n.",
+    "translation": "版本"
+  },
+  {
+    "id": 541,
+    "word": "Via",
+    "pos": "prep.",
+    "translation": "經由、透過"
+  },
+  {
+    "id": 542,
+    "word": "Violate",
+    "pos": "v.",
+    "translation": "違反、侵犯"
+  },
+  {
+    "id": 543,
+    "word": "Virtual",
+    "pos": "adj.",
+    "translation": "虛擬的、實質上的"
+  },
+  {
+    "id": 544,
+    "word": "Visible",
+    "pos": "adj.",
+    "translation": "可見的、明顯的"
+  },
+  {
+    "id": 545,
+    "word": "Vision",
+    "pos": "n.",
+    "translation": "視力、願景"
+  },
+  {
+    "id": 546,
+    "word": "Visual",
+    "pos": "adj.",
+    "translation": "視覺的"
+  },
+  {
+    "id": 547,
+    "word": "Volume",
+    "pos": "n.",
+    "translation": "體積、音量、卷"
+  },
+  {
+    "id": 548,
+    "word": "Voluntary",
+    "pos": "adj.",
+    "translation": "自願的"
+  },
+  {
+    "id": 549,
+    "word": "Welfare",
+    "pos": "n.",
+    "translation": "福利、社會救濟"
+  },
+  {
+    "id": 550,
+    "word": "Whereas",
+    "pos": "conj.",
+    "translation": "然而、鑒於"
+  },
+  {
+    "id": 551,
+    "word": "Whereby",
+    "pos": "adv.",
+    "translation": "藉以"
+  },
+  {
+    "id": 552,
+    "word": "Widespread",
+    "pos": "adj.",
+    "translation": "廣泛的、普遍的"
+  },
+  {
+    "id": 553,
+    "word": "Accumulation",
+    "pos": "n.",
+    "translation": "累積"
+  },
+  {
+    "id": 554,
+    "word": "Accuracy",
+    "pos": "n.",
+    "translation": "準確性"
+  },
+  {
+    "id": 555,
+    "word": "Adaptation",
+    "pos": "n.",
+    "translation": "適應、改編"
+  },
+  {
+    "id": 556,
+    "word": "Adequacy",
+    "pos": "n.",
+    "translation": "適當、足夠"
+  },
+  {
+    "id": 557,
+    "word": "Admiration",
+    "pos": "n.",
+    "translation": "欽佩、讚賞"
+  },
+  {
+    "id": 558,
+    "word": "Adolescence",
+    "pos": "n.",
+    "translation": "青春期"
+  },
+  {
+    "id": 559,
+    "word": "Adoption",
+    "pos": "n.",
+    "translation": "採用、收養"
+  },
+  {
+    "id": 560,
+    "word": "Advancement",
+    "pos": "n.",
+    "translation": "前進、進展"
+  },
+  {
+    "id": 561,
+    "word": "Adverse",
+    "pos": "adj.",
+    "translation": "不利的、有害的"
+  },
+  {
+    "id": 562,
+    "word": "Advocacy",
+    "pos": "n.",
+    "translation": "提倡、擁護"
+  },
+  {
+    "id": 563,
+    "word": "Aggregate",
+    "pos": "adj./n.",
+    "translation": "總計的、合計"
+  },
+  {
+    "id": 564,
+    "word": "Align",
+    "pos": "v.",
+    "translation": "使一致、對齊"
+  },
+  {
+    "id": 565,
+    "word": "Alleviate",
+    "pos": "v.",
+    "translation": "減輕、緩和"
+  },
+  {
+    "id": 566,
+    "word": "Ambiguity",
+    "pos": "n.",
+    "translation": "模稜兩可"
+  },
+  {
+    "id": 567,
+    "word": "Amendment",
+    "pos": "n.",
+    "translation": "修正案、修改"
+  },
+  {
+    "id": 568,
+    "word": "Analogy",
+    "pos": "n.",
+    "translation": "類比、比喻"
+  },
+  {
+    "id": 569,
+    "word": "Apparatus",
+    "pos": "n.",
+    "translation": "儀器、裝置"
+  },
+  {
+    "id": 570,
+    "word": "Appreciate",
+    "pos": "v.",
+    "translation": "欣賞、感激、增值"
+  },
+  {
+    "id": 571,
+    "word": "Arbitrate",
+    "pos": "v.",
+    "translation": "仲裁、公斷"
+  },
+  {
+    "id": 572,
+    "word": "Array",
+    "pos": "n.",
+    "translation": "陣列、大批"
+  },
+  {
+    "id": 573,
+    "word": "Assemble",
+    "pos": "v.",
+    "translation": "組裝、集合"
+  },
+  {
+    "id": 574,
+    "word": "Assert",
+    "pos": "v.",
+    "translation": "斷言、主張"
+  },
+  {
+    "id": 575,
+    "word": "Assessment",
+    "pos": "n.",
+    "translation": "評估、評價"
+  },
+  {
+    "id": 576,
+    "word": "Assimilate",
+    "pos": "v.",
+    "translation": "吸收、同化"
+  },
+  {
+    "id": 577,
+    "word": "Assumption",
+    "pos": "n.",
+    "translation": "假設、承擔"
+  },
+  {
+    "id": 578,
+    "word": "Asymmetry",
+    "pos": "n.",
+    "translation": "不對稱"
+  },
+  {
+    "id": 579,
+    "word": "Attendance",
+    "pos": "n.",
+    "translation": "出席、出席人數"
+  },
+  {
+    "id": 580,
+    "word": "Attitude",
+    "pos": "n.",
+    "translation": "態度、看法"
+  },
+  {
+    "id": 581,
+    "word": "Attributable",
+    "pos": "adj.",
+    "translation": "可歸因於...的"
+  },
+  {
+    "id": 582,
+    "word": "Authentic",
+    "pos": "adj.",
+    "translation": "真實的、可靠的"
+  },
+  {
+    "id": 583,
+    "word": "Authority",
+    "pos": "n.",
+    "translation": "權威、當局"
+  },
+  {
+    "id": 584,
+    "word": "Autonomy",
+    "pos": "n.",
+    "translation": "自治、自主"
+  },
+  {
+    "id": 585,
+    "word": "Bureaucracy",
+    "pos": "n.",
+    "translation": "官僚體制"
+  },
+  {
+    "id": 586,
+    "word": "Calculation",
+    "pos": "n.",
+    "translation": "計算"
+  },
+  {
+    "id": 587,
+    "word": "Candidate",
+    "pos": "n.",
+    "translation": "候選人"
+  },
+  {
+    "id": 588,
+    "word": "Capability",
+    "pos": "n.",
+    "translation": "能力、性能"
+  },
+  {
+    "id": 589,
+    "word": "Casualty",
+    "pos": "n.",
+    "translation": "傷亡人員"
+  },
+  {
+    "id": 590,
+    "word": "Caution",
+    "pos": "n./v.",
+    "translation": "警告、謹慎"
+  },
+  {
+    "id": 591,
+    "word": "Cell",
+    "pos": "n.",
+    "translation": "細胞、電池"
+  },
+  {
+    "id": 592,
+    "word": "Characterize",
+    "pos": "v.",
+    "translation": "描繪...的特性"
+  },
+  {
+    "id": 593,
+    "word": "Circulation",
+    "pos": "n.",
+    "translation": "循環、發行量"
+  },
+  {
+    "id": 594,
+    "word": "Citizen",
+    "pos": "n.",
+    "translation": "公民、市民"
+  },
+  {
+    "id": 595,
+    "word": "Civilization",
+    "pos": "n.",
+    "translation": "文明"
+  },
+  {
+    "id": 596,
+    "word": "Clan",
+    "pos": "n.",
+    "translation": "宗族、家族"
+  },
+  {
+    "id": 597,
+    "word": "Classification",
+    "pos": "n.",
+    "translation": "分類、分級"
+  },
+  {
+    "id": 598,
+    "word": "Climate",
+    "pos": "n.",
+    "translation": "氣候"
+  },
+  {
+    "id": 599,
+    "word": "Clinic",
+    "pos": "n.",
+    "translation": "診所、臨床教學"
+  },
+  {
+    "id": 600,
+    "word": "Cluster",
+    "pos": "n./v.",
+    "translation": "群集、聚集"
+  },
+  {
+    "id": 601,
+    "word": "Coalition",
+    "pos": "n.",
+    "translation": "聯盟"
+  },
+  {
+    "id": 602,
+    "word": "Cognitive",
+    "pos": "adj.",
+    "translation": "認知的"
+  },
+  {
+    "id": 603,
+    "word": "Coherence",
+    "pos": "n.",
+    "translation": "連貫性"
+  },
+  {
+    "id": 604,
+    "word": "Collaborate",
+    "pos": "v.",
+    "translation": "合作"
+  },
+  {
+    "id": 605,
+    "word": "Colleague",
+    "pos": "n.",
+    "translation": "同事"
+  },
+  {
+    "id": 606,
+    "word": "Collision",
+    "pos": "n.",
+    "translation": "碰撞、衝突"
+  },
+  {
+    "id": 607,
+    "word": "Commitment",
+    "pos": "n.",
+    "translation": "承諾、奉獻"
+  },
+  {
+    "id": 608,
+    "word": "Commodity",
+    "pos": "n.",
+    "translation": "商品"
+  },
+  {
+    "id": 609,
+    "word": "Communicate",
+    "pos": "v.",
+    "translation": "溝通、傳達"
+  },
+  {
+    "id": 610,
+    "word": "Compensate",
+    "pos": "v.",
+    "translation": "補償、賠償"
+  },
+  {
+    "id": 611,
+    "word": "Competence",
+    "pos": "n.",
+    "translation": "能力、勝任"
+  },
+  {
+    "id": 612,
+    "word": "Compile",
+    "pos": "v.",
+    "translation": "編譯、收集"
+  },
+  {
+    "id": 613,
+    "word": "Complement",
+    "pos": "v./n.",
+    "translation": "補充、互補"
+  },
+  {
+    "id": 614,
+    "word": "Complex",
+    "pos": "adj.",
+    "translation": "複雜的"
+  },
+  {
+    "id": 615,
+    "word": "Comply",
+    "pos": "v.",
+    "translation": "遵守、服從"
+  },
+  {
+    "id": 616,
+    "word": "Component",
+    "pos": "n.",
+    "translation": "組件、成分"
+  },
+  {
+    "id": 617,
+    "word": "Compound",
+    "pos": "n./v.",
+    "translation": "化合物、加重"
+  },
+  {
+    "id": 618,
+    "word": "Comprehend",
+    "pos": "v.",
+    "translation": "理解"
+  },
+  {
+    "id": 619,
+    "word": "Comprehensive",
+    "pos": "adj.",
+    "translation": "全面的、廣泛的"
+  },
+  {
+    "id": 620,
+    "word": "Comprise",
+    "pos": "v.",
+    "translation": "包含、由...組成"
+  },
+  {
+    "id": 621,
+    "word": "Conceive",
+    "pos": "v.",
+    "translation": "構思、設想"
+  },
+  {
+    "id": 622,
+    "word": "Concentrate",
+    "pos": "v.",
+    "translation": "集中、濃縮"
+  },
+  {
+    "id": 623,
+    "word": "Concept",
+    "pos": "n.",
+    "translation": "概念"
+  },
+  {
+    "id": 624,
+    "word": "Conclude",
+    "pos": "v.",
+    "translation": "推斷、結束"
+  },
+  {
+    "id": 625,
+    "word": "Concurrent",
+    "pos": "adj.",
+    "translation": "同時發生的"
+  },
+  {
+    "id": 626,
+    "word": "Conduct",
+    "pos": "v./n.",
+    "translation": "進行、行為"
+  },
+  {
+    "id": 627,
+    "word": "Confer",
+    "pos": "v.",
+    "translation": "商討、授予"
+  },
+  {
+    "id": 628,
+    "word": "Confine",
+    "pos": "v.",
+    "translation": "限制、侷限"
+  },
+  {
+    "id": 629,
+    "word": "Confirm",
+    "pos": "v.",
+    "translation": "確認、證實"
+  },
+  {
+    "id": 630,
+    "word": "Conflict",
+    "pos": "n./v.",
+    "translation": "衝突"
+  },
+  {
+    "id": 631,
+    "word": "Conform",
+    "pos": "v.",
+    "translation": "符合、遵從"
+  },
+  {
+    "id": 632,
+    "word": "Consent",
+    "pos": "n./v.",
+    "translation": "同意、贊成"
+  },
+  {
+    "id": 633,
+    "word": "Consequent",
+    "pos": "adj.",
+    "translation": "隨之發生的"
+  },
+  {
+    "id": 634,
+    "word": "Considerable",
+    "pos": "adj.",
+    "translation": "相當大的"
+  },
+  {
+    "id": 635,
+    "word": "Consist",
+    "pos": "v.",
+    "translation": "組成、在於"
+  },
+  {
+    "id": 636,
+    "word": "Constant",
+    "pos": "adj./n.",
+    "translation": "常數、不變的"
+  },
+  {
+    "id": 637,
+    "word": "Constitute",
+    "pos": "v.",
+    "translation": "構成、組成"
+  },
+  {
+    "id": 638,
+    "word": "Constrain",
+    "pos": "v.",
+    "translation": "限制、約束"
+  },
+  {
+    "id": 639,
+    "word": "Construct",
+    "pos": "v./n.",
+    "translation": "建造、構成"
+  },
+  {
+    "id": 640,
+    "word": "Consult",
+    "pos": "v.",
+    "translation": "諮詢、查閱"
+  },
+  {
+    "id": 641,
+    "word": "Consume",
+    "pos": "v.",
+    "translation": "消耗、消費"
+  },
+  {
+    "id": 642,
+    "word": "Contact",
+    "pos": "n./v.",
+    "translation": "接觸、聯繫"
+  },
+  {
+    "id": 643,
+    "word": "Contemporary",
+    "pos": "adj.",
+    "translation": "當代的"
+  },
+  {
+    "id": 644,
+    "word": "Context",
+    "pos": "n.",
+    "translation": "上下文、背景"
+  },
+  {
+    "id": 645,
+    "word": "Contract",
+    "pos": "n./v.",
+    "translation": "合約、收縮"
+  },
+  {
+    "id": 646,
+    "word": "Contradict",
+    "pos": "v.",
+    "translation": "反駁、與...矛盾"
+  },
+  {
+    "id": 647,
+    "word": "Contrary",
+    "pos": "adj.",
+    "translation": "相反的"
+  },
+  {
+    "id": 648,
+    "word": "Contrast",
+    "pos": "n./v.",
+    "translation": "對比"
+  },
+  {
+    "id": 649,
+    "word": "Contribute",
+    "pos": "v.",
+    "translation": "貢獻、促成"
+  },
+  {
+    "id": 650,
+    "word": "Controversy",
+    "pos": "n.",
+    "translation": "爭議"
+  },
+  {
+    "id": 651,
+    "word": "Convene",
+    "pos": "v.",
+    "translation": "召集、集合"
+  },
+  {
+    "id": 652,
+    "word": "Convention",
+    "pos": "n.",
+    "translation": "慣例、大會"
+  },
+  {
+    "id": 654,
+    "word": "Convert",
+    "pos": "v.",
+    "translation": "轉換"
+  },
+  {
+    "id": 655,
+    "word": "Convince",
+    "pos": "v.",
+    "translation": "說服"
+  },
+  {
+    "id": 656,
+    "word": "Cooperate",
+    "pos": "v.",
+    "translation": "合作"
+  },
+  {
+    "id": 657,
+    "word": "Coordinate",
+    "pos": "v./n.",
+    "translation": "協調、座標"
+  },
+  {
+    "id": 659,
+    "word": "Corporate",
+    "pos": "adj.",
+    "translation": "公司的、法人的"
+  },
+  {
+    "id": 660,
+    "word": "Correspond",
+    "pos": "v.",
+    "translation": "符合、通信"
+  },
+  {
+    "id": 661,
+    "word": "Couple",
+    "pos": "n./v.",
+    "translation": "一對、結合"
+  },
+  {
+    "id": 662,
+    "word": "Create",
+    "pos": "v.",
+    "translation": "創造、建立"
+  },
+  {
+    "id": 663,
+    "word": "Credit",
+    "pos": "n./v.",
+    "translation": "信用、學分"
+  },
+  {
+    "id": 664,
+    "word": "Criteria",
+    "pos": "n.",
+    "translation": "標準"
+  },
+  {
+    "id": 665,
+    "word": "Crucial",
+    "pos": "adj.",
+    "translation": "決定性的、重要的"
+  },
+  {
+    "id": 666,
+    "word": "Culture",
+    "pos": "n.",
+    "translation": "文化、培養"
+  },
+  {
+    "id": 667,
+    "word": "Currency",
+    "pos": "n.",
+    "translation": "貨幣、流通"
+  },
+  {
+    "id": 668,
+    "word": "Cycle",
+    "pos": "n./v.",
+    "translation": "週期、循環"
+  },
+  {
+    "id": 669,
+    "word": "Data",
+    "pos": "n.",
+    "translation": "資料、數據"
+  },
+  {
+    "id": 670,
+    "word": "Debate",
+    "pos": "n./v.",
+    "translation": "辯論、討論"
+  },
+  {
+    "id": 671,
+    "word": "Decade",
+    "pos": "n.",
+    "translation": "十年"
+  },
+  {
+    "id": 672,
+    "word": "Decline",
+    "pos": "n./v.",
+    "translation": "下降、衰退"
+  },
+  {
+    "id": 673,
+    "word": "Deduce",
+    "pos": "v.",
+    "translation": "推論、演繹"
+  },
+  {
+    "id": 674,
+    "word": "Define",
+    "pos": "v.",
+    "translation": "定義"
+  },
+  {
+    "id": 675,
+    "word": "Definite",
+    "pos": "adj.",
+    "translation": "明確的、肯定的"
+  },
+  {
+    "id": 676,
+    "word": "Demonstrate",
+    "pos": "v.",
+    "translation": "證明、展示"
+  },
+  {
+    "id": 677,
+    "word": "Denote",
+    "pos": "v.",
+    "translation": "表示、意味著"
+  },
+  {
+    "id": 678,
+    "word": "Deny",
+    "pos": "v.",
+    "translation": "否認、拒絕給予"
+  },
+  {
+    "id": 679,
+    "word": "Depress",
+    "pos": "v.",
+    "translation": "使沮喪、使蕭條"
+  },
+  {
+    "id": 680,
+    "word": "Derive",
+    "pos": "v.",
+    "translation": "源自、獲得"
+  },
+  {
+    "id": 681,
+    "word": "Design",
+    "pos": "n./v.",
+    "translation": "設計"
+  },
+  {
+    "id": 682,
+    "word": "Despite",
+    "pos": "prep.",
+    "translation": "儘管"
+  },
+  {
+    "id": 683,
+    "word": "Detect",
+    "pos": "v.",
+    "translation": "偵測、察覺"
+  },
+  {
+    "id": 684,
+    "word": "Deviate",
+    "pos": "v.",
+    "translation": "偏離"
+  },
+  {
+    "id": 685,
+    "word": "Device",
+    "pos": "n.",
+    "translation": "裝置、設備"
+  },
+  {
+    "id": 686,
+    "word": "Devote",
+    "pos": "v.",
+    "translation": "奉獻、致力於"
+  },
+  {
+    "id": 687,
+    "word": "Differentiate",
+    "pos": "v.",
+    "translation": "區分、使不同"
+  },
+  {
+    "id": 688,
+    "word": "Dimension",
+    "pos": "n.",
+    "translation": "尺寸、維度"
+  },
+  {
+    "id": 689,
+    "word": "Diminish",
+    "pos": "v.",
+    "translation": "減少、削弱"
+  },
+  {
+    "id": 690,
+    "word": "Discrete",
+    "pos": "adj.",
+    "translation": "離散的、不連續的"
+  },
+  {
+    "id": 691,
+    "word": "Discriminate",
+    "pos": "v.",
+    "translation": "歧視、區別"
+  },
+  {
+    "id": 692,
+    "word": "Displace",
+    "pos": "v.",
+    "translation": "取代、移置"
+  },
+  {
+    "id": 693,
+    "word": "Display",
+    "pos": "v./n.",
+    "translation": "顯示、展示"
+  },
+  {
+    "id": 694,
+    "word": "Dispose",
+    "pos": "v.",
+    "translation": "處理、處置"
+  },
+  {
+    "id": 695,
+    "word": "Disproportionate",
+    "pos": "adj.",
+    "translation": "不成比例的"
+  },
+  {
+    "id": 696,
+    "word": "Dispute",
+    "pos": "n./v.",
+    "translation": "爭論、糾紛"
+  },
+  {
+    "id": 697,
+    "word": "Distort",
+    "pos": "v.",
+    "translation": "扭曲、曲解"
+  },
+  {
+    "id": 698,
+    "word": "Distribute",
+    "pos": "v.",
+    "translation": "分配、分發"
+  },
+  {
+    "id": 699,
+    "word": "Diverse",
+    "pos": "adj.",
+    "translation": "多樣的、不同的"
+  },
+  {
+    "id": 700,
+    "word": "Document",
+    "pos": "n./v.",
+    "translation": "文件、記錄"
+  },
+  {
+    "id": 701,
+    "word": "Domain",
+    "pos": "n.",
+    "translation": "領域、網域"
+  },
+  {
+    "id": 702,
+    "word": "Domestic",
+    "pos": "adj.",
+    "translation": "國內的、家庭的"
+  },
+  {
+    "id": 703,
+    "word": "Dominate",
+    "pos": "v.",
+    "translation": "支配、佔優勢"
+  },
+  {
+    "id": 704,
+    "word": "Draft",
+    "pos": "n./v.",
+    "translation": "草稿、起草"
+  },
+  {
+    "id": 705,
+    "word": "Drama",
+    "pos": "n.",
+    "translation": "戲劇、戲劇性事件"
+  },
+  {
+    "id": 706,
+    "word": "Duration",
+    "pos": "n.",
+    "translation": "持續時間"
+  },
+  {
+    "id": 707,
+    "word": "Dynamic",
+    "pos": "adj./n.",
+    "translation": "動態的、動力"
+  },
+  {
+    "id": 708,
+    "word": "Economy",
+    "pos": "n.",
+    "translation": "經濟、節約"
+  },
+  {
+    "id": 709,
+    "word": "Edit",
+    "pos": "v.",
+    "translation": "編輯、修改"
+  },
+  {
+    "id": 710,
+    "word": "Element",
+    "pos": "n.",
+    "translation": "元素、要素"
+  },
+  {
+    "id": 711,
+    "word": "Eliminate",
+    "pos": "v.",
+    "translation": "消除、淘汰"
+  },
+  {
+    "id": 712,
+    "word": "Emerge",
+    "pos": "v.",
+    "translation": "浮現、出現"
+  },
+  {
+    "id": 713,
+    "word": "Emphasis",
+    "pos": "n.",
+    "translation": "強調、重點"
+  },
+  {
+    "id": 714,
+    "word": "Empirical",
+    "pos": "adj.",
+    "translation": "經驗主義的"
+  },
+  {
+    "id": 715,
+    "word": "Enable",
+    "pos": "v.",
+    "translation": "使能夠"
+  },
+  {
+    "id": 716,
+    "word": "Encounter",
+    "pos": "v./n.",
+    "translation": "遭遇、遇到"
+  },
+  {
+    "id": 717,
+    "word": "Energy",
+    "pos": "n.",
+    "translation": "能量、精力"
+  },
+  {
+    "id": 718,
+    "word": "Enforce",
+    "pos": "v.",
+    "translation": "執行、強迫"
+  },
+  {
+    "id": 719,
+    "word": "Enhance",
+    "pos": "v.",
+    "translation": "提高、增強"
+  },
+  {
+    "id": 720,
+    "word": "Enormous",
+    "pos": "adj.",
+    "translation": "巨大的、龐大的"
+  },
+  {
+    "id": 721,
+    "word": "Ensure",
+    "pos": "v.",
+    "translation": "確保、保證"
+  },
+  {
+    "id": 722,
+    "word": "Entity",
+    "pos": "n.",
+    "translation": "實體、存在"
+  },
+  {
+    "id": 723,
+    "word": "Environment",
+    "pos": "n.",
+    "translation": "環境"
+  },
+  {
+    "id": 724,
+    "word": "Equate",
+    "pos": "v.",
+    "translation": "使相等、等同"
+  },
+  {
+    "id": 725,
+    "word": "Equip",
+    "pos": "v.",
+    "translation": "裝備、配備"
+  },
+  {
+    "id": 726,
+    "word": "Equivalent",
+    "pos": "adj./n.",
+    "translation": "等值的、相等物"
+  },
+  {
+    "id": 727,
+    "word": "Error",
+    "pos": "n.",
+    "translation": "錯誤、誤差"
+  },
+  {
+    "id": 728,
+    "word": "Establish",
+    "pos": "v.",
+    "translation": "建立、證實"
+  },
+  {
+    "id": 729,
+    "word": "Estate",
+    "pos": "n.",
+    "translation": "地產、財產"
+  },
+  {
+    "id": 730,
+    "word": "Estimate",
+    "pos": "v./n.",
+    "translation": "估計、估算"
+  },
+  {
+    "id": 731,
+    "word": "Evaluate",
+    "pos": "v.",
+    "translation": "評估、評價"
+  },
+  {
+    "id": 732,
+    "word": "Eventual",
+    "pos": "adj.",
+    "translation": "最終的"
+  },
+  {
+    "id": 733,
+    "word": "Evident",
+    "pos": "adj.",
+    "translation": "明顯的、明白的"
+  },
+  {
+    "id": 734,
+    "word": "Evolve",
+    "pos": "v.",
+    "translation": "演化、發展"
+  },
+  {
+    "id": 735,
+    "word": "Exceed",
+    "pos": "v.",
+    "translation": "超過、超出"
+  },
+  {
+    "id": 736,
+    "word": "Exclude",
+    "pos": "v.",
+    "translation": "排除、不包括"
+  },
+  {
+    "id": 737,
+    "word": "Exhibit",
+    "pos": "v./n.",
+    "translation": "展示、展覽"
+  },
+  {
+    "id": 738,
+    "word": "Expand",
+    "pos": "v.",
+    "translation": "擴大、展開"
+  },
+  {
+    "id": 740,
+    "word": "Explicit",
+    "pos": "adj.",
+    "translation": "明確的、清楚的"
+  },
+  {
+    "id": 741,
+    "word": "Exploit",
+    "pos": "v.",
+    "translation": "開發、利用"
+  },
+  {
+    "id": 742,
+    "word": "Export",
+    "pos": "v./n.",
+    "translation": "出口、輸出"
+  },
+  {
+    "id": 743,
+    "word": "Expose",
+    "pos": "v.",
+    "translation": "暴露、揭露"
+  },
+  {
+    "id": 744,
+    "word": "External",
+    "pos": "adj.",
+    "translation": "外部的"
+  },
+  {
+    "id": 745,
+    "word": "Extract",
+    "pos": "v./n.",
+    "translation": "提取、摘錄"
+  },
+  {
+    "id": 746,
+    "word": "Facilitate",
+    "pos": "v.",
+    "translation": "促進、使便利"
+  },
+  {
+    "id": 747,
+    "word": "Factor",
+    "pos": "n.",
+    "translation": "因素、要素"
+  },
+  {
+    "id": 748,
+    "word": "Feature",
+    "pos": "n./v.",
+    "translation": "特徵、特色"
+  },
+  {
+    "id": 749,
+    "word": "Federal",
+    "pos": "adj.",
+    "translation": "聯邦的"
+  },
+  {
+    "id": 750,
+    "word": "Fee",
+    "pos": "n.",
+    "translation": "費用"
+  },
+  {
+    "id": 751,
+    "word": "Feedback",
+    "pos": "n.",
+    "translation": "回饋、反應"
+  },
+  {
+    "id": 752,
+    "word": "Field",
+    "pos": "n.",
+    "translation": "領域、田野"
+  },
+  {
+    "id": 753,
+    "word": "Finalize",
+    "pos": "v.",
+    "translation": "定案、最後確定"
+  },
+  {
+    "id": 754,
+    "word": "Finance",
+    "pos": "n.",
+    "translation": "財務、金融"
+  },
+  {
+    "id": 755,
+    "word": "Finding",
+    "pos": "n.",
+    "translation": "發現、結果"
+  },
+  {
+    "id": 756,
+    "word": "Fine",
+    "pos": "adj./n.",
+    "translation": "精緻的、罰款"
+  },
+  {
+    "id": 757,
+    "word": "Finite",
+    "pos": "adj.",
+    "translation": "有限的"
+  },
+  {
+    "id": 758,
+    "word": "Firm",
+    "pos": "adj./n.",
+    "translation": "堅固的、公司"
+  },
+  {
+    "id": 759,
+    "word": "Fiscal",
+    "pos": "adj.",
+    "translation": "財政的"
+  },
+  {
+    "id": 760,
+    "word": "Flexibility",
+    "pos": "n.",
+    "translation": "彈性、靈活性"
+  },
+  {
+    "id": 761,
+    "word": "Fluctuate",
+    "pos": "v.",
+    "translation": "波動"
+  },
+  {
+    "id": 762,
+    "word": "Focus",
+    "pos": "v./n.",
+    "translation": "聚焦、焦點"
+  },
+  {
+    "id": 763,
+    "word": "Formula",
+    "pos": "n.",
+    "translation": "公式、配方"
+  },
+  {
+    "id": 764,
+    "word": "Forthcoming",
+    "pos": "adj.",
+    "translation": "即將到來的"
+  },
+  {
+    "id": 765,
+    "word": "Found",
+    "pos": "v.",
+    "translation": "建立"
+  },
+  {
+    "id": 766,
+    "word": "Foundation",
+    "pos": "n.",
+    "translation": "基礎、基金會"
+  },
+  {
+    "id": 767,
+    "word": "Framework",
+    "pos": "n.",
+    "translation": "框架、架構"
+  },
+  {
+    "id": 768,
+    "word": "Function",
+    "pos": "n.",
+    "translation": "功能"
+  },
+  {
+    "id": 769,
+    "word": "Fund",
+    "pos": "n./v.",
+    "translation": "基金、資助"
+  },
+  {
+    "id": 770,
+    "word": "Fundamental",
+    "pos": "adj.",
+    "translation": "根本的、基本的"
+  },
+  {
+    "id": 771,
+    "word": "Furthermore",
+    "pos": "adv.",
+    "translation": "此外"
+  },
+  {
+    "id": 772,
+    "word": "Gender",
+    "pos": "n.",
+    "translation": "性別"
+  },
+  {
+    "id": 773,
+    "word": "Generate",
+    "pos": "v.",
+    "translation": "產生"
+  },
+  {
+    "id": 774,
+    "word": "Generation",
+    "pos": "n.",
+    "translation": "世代"
+  },
+  {
+    "id": 775,
+    "word": "Global",
+    "pos": "adj.",
+    "translation": "全球的"
+  },
+  {
+    "id": 776,
+    "word": "Goal",
+    "pos": "n.",
+    "translation": "目標"
+  },
+  {
+    "id": 777,
+    "word": "Grade",
+    "pos": "n./v.",
+    "translation": "等級、評分"
+  },
+  {
+    "id": 778,
+    "word": "Grant",
+    "pos": "v./n.",
+    "translation": "准許、補助金"
+  },
+  {
+    "id": 779,
+    "word": "Guarantee",
+    "pos": "v./n.",
+    "translation": "保證"
+  },
+  {
+    "id": 780,
+    "word": "Guideline",
+    "pos": "n.",
+    "translation": "指導方針"
+  },
+  {
+    "id": 781,
+    "word": "Hence",
+    "pos": "adv.",
+    "translation": "因此"
+  },
+  {
+    "id": 782,
+    "word": "Hierarchy",
+    "pos": "n.",
+    "translation": "層級、等級制度"
+  },
+  {
+    "id": 783,
+    "word": "Highlight",
+    "pos": "v.",
+    "translation": "強調"
+  },
+  {
+    "id": 784,
+    "word": "Hypothesis",
+    "pos": "n.",
+    "translation": "假說"
+  },
+  {
+    "id": 785,
+    "word": "Identical",
+    "pos": "adj.",
+    "translation": "完全相同的"
+  },
+  {
+    "id": 786,
+    "word": "Identify",
+    "pos": "v.",
+    "translation": "識別"
+  },
+  {
+    "id": 787,
+    "word": "Ideology",
+    "pos": "n.",
+    "translation": "意識形態"
+  },
+  {
+    "id": 788,
+    "word": "Ignorance",
+    "pos": "n.",
+    "translation": "無知"
+  },
+  {
+    "id": 789,
+    "word": "Illustrate",
+    "pos": "v.",
+    "translation": "說明、闡明"
+  },
+  {
+    "id": 790,
+    "word": "Image",
+    "pos": "n.",
+    "translation": "圖像"
+  },
+  {
+    "id": 791,
+    "word": "Immigrate",
+    "pos": "v.",
+    "translation": "移民"
+  },
+  {
+    "id": 792,
+    "word": "Impact",
+    "pos": "n.",
+    "translation": "影響"
+  },
+  {
+    "id": 793,
+    "word": "Implement",
+    "pos": "v.",
+    "translation": "實行"
+  },
+  {
+    "id": 794,
+    "word": "Implicate",
+    "pos": "v.",
+    "translation": "牽連"
+  },
+  {
+    "id": 795,
+    "word": "Implicit",
+    "pos": "adj.",
+    "translation": "含蓄的、隱含的"
+  },
+  {
+    "id": 796,
+    "word": "Imply",
+    "pos": "v.",
+    "translation": "暗示"
+  },
+  {
+    "id": 797,
+    "word": "Impose",
+    "pos": "v.",
+    "translation": "強加、徵收"
+  },
+  {
+    "id": 798,
+    "word": "Incentive",
+    "pos": "n.",
+    "translation": "誘因"
+  },
+  {
+    "id": 799,
+    "word": "Incidence",
+    "pos": "n.",
+    "translation": "發生率"
+  },
+  {
+    "id": 800,
+    "word": "Incline",
+    "pos": "v./n.",
+    "translation": "傾向"
+  },
+  {
+    "id": 801,
+    "word": "Income",
+    "pos": "n.",
+    "translation": "收入"
+  },
+  {
+    "id": 802,
+    "word": "Incorporate",
+    "pos": "v.",
+    "translation": "併入、結合"
+  },
+  {
+    "id": 803,
+    "word": "Index",
+    "pos": "n.",
+    "translation": "指數、索引"
+  },
+  {
+    "id": 804,
+    "word": "Indicate",
+    "pos": "v.",
+    "translation": "指出、顯示"
+  },
+  {
+    "id": 805,
+    "word": "Individual",
+    "pos": "adj./n.",
+    "translation": "個人的、個體"
+  },
+  {
+    "id": 806,
+    "word": "Induce",
+    "pos": "v.",
+    "translation": "導致、引起"
+  },
+  {
+    "id": 807,
+    "word": "Inevitable",
+    "pos": "adj.",
+    "translation": "不可避免的"
+  },
+  {
+    "id": 808,
+    "word": "Infer",
+    "pos": "v.",
+    "translation": "推斷"
+  },
+  {
+    "id": 809,
+    "word": "Infrastructure",
+    "pos": "n.",
+    "translation": "基礎建設"
+  },
+  {
+    "id": 810,
+    "word": "Inherent",
+    "pos": "adj.",
+    "translation": "固有的"
+  },
+  {
+    "id": 811,
+    "word": "Inhibit",
+    "pos": "v.",
+    "translation": "抑制"
+  },
+  {
+    "id": 812,
+    "word": "Initial",
+    "pos": "adj.",
+    "translation": "最初的"
+  },
+  {
+    "id": 813,
+    "word": "Initiate",
+    "pos": "v.",
+    "translation": "開始、發起"
+  },
+  {
+    "id": 814,
+    "word": "Injure",
+    "pos": "v.",
+    "translation": "傷害"
+  },
+  {
+    "id": 815,
+    "word": "Innovate",
+    "pos": "v.",
+    "translation": "創新"
+  },
+  {
+    "id": 816,
+    "word": "Input",
+    "pos": "n./v.",
+    "translation": "輸入"
+  },
+  {
+    "id": 817,
+    "word": "Insert",
+    "pos": "v.",
+    "translation": "插入"
+  },
+  {
+    "id": 818,
+    "word": "Insight",
+    "pos": "n.",
+    "translation": "洞察力"
+  },
+  {
+    "id": 819,
+    "word": "Inspect",
+    "pos": "v.",
+    "translation": "檢查"
+  },
+  {
+    "id": 820,
+    "word": "Instance",
+    "pos": "n.",
+    "translation": "例子"
+  },
+  {
+    "id": 821,
+    "word": "Institute",
+    "pos": "n./v.",
+    "translation": "機構、制定"
+  },
+  {
+    "id": 822,
+    "word": "Instruct",
+    "pos": "v.",
+    "translation": "指導"
+  },
+  {
+    "id": 823,
+    "word": "Integral",
+    "pos": "adj.",
+    "translation": "不可或缺的"
+  },
+  {
+    "id": 824,
+    "word": "Integrate",
+    "pos": "v.",
+    "translation": "整合"
+  },
+  {
+    "id": 825,
+    "word": "Integrity",
+    "pos": "n.",
+    "translation": "正直、完整"
+  },
+  {
+    "id": 826,
+    "word": "Intelligence",
+    "pos": "n.",
+    "translation": "智力、情報"
+  },
+  {
+    "id": 827,
+    "word": "Intense",
+    "pos": "adj.",
+    "translation": "強烈的"
+  },
+  {
+    "id": 828,
+    "word": "Interact",
+    "pos": "v.",
+    "translation": "互動"
+  },
+  {
+    "id": 829,
+    "word": "Intermediate",
+    "pos": "adj.",
+    "translation": "中間的"
+  },
+  {
+    "id": 830,
+    "word": "Internal",
+    "pos": "adj.",
+    "translation": "內部的"
+  },
+  {
+    "id": 831,
+    "word": "Interpret",
+    "pos": "v.",
+    "translation": "解釋"
+  },
+  {
+    "id": 832,
+    "word": "Interval",
+    "pos": "n.",
+    "translation": "間隔"
+  },
+  {
+    "id": 833,
+    "word": "Intervene",
+    "pos": "v.",
+    "translation": "介入"
+  },
+  {
+    "id": 834,
+    "word": "Intrinsic",
+    "pos": "adj.",
+    "translation": "內在的"
+  },
+  {
+    "id": 835,
+    "word": "Invest",
+    "pos": "v.",
+    "translation": "投資"
+  },
+  {
+    "id": 836,
+    "word": "Investigate",
+    "pos": "v.",
+    "translation": "調查"
+  },
+  {
+    "id": 837,
+    "word": "Invoke",
+    "pos": "v.",
+    "translation": "呼叫、祈求"
+  },
+  {
+    "id": 838,
+    "word": "Involve",
+    "pos": "v.",
+    "translation": "包含"
+  },
+  {
+    "id": 839,
+    "word": "Isolate",
+    "pos": "v.",
+    "translation": "隔離"
+  },
+  {
+    "id": 840,
+    "word": "Issue",
+    "pos": "n./v.",
+    "translation": "議題、發行"
+  },
+  {
+    "id": 841,
+    "word": "Item",
+    "pos": "n.",
+    "translation": "項目"
+  },
+  {
+    "id": 842,
+    "word": "Journal",
+    "pos": "n.",
+    "translation": "期刊"
+  },
+  {
+    "id": 843,
+    "word": "Justify",
+    "pos": "v.",
+    "translation": "證明正當性"
+  },
+  {
+    "id": 844,
+    "word": "Label",
+    "pos": "n./v.",
+    "translation": "標籤"
+  },
+  {
+    "id": 845,
+    "word": "Labor",
+    "pos": "n./v.",
+    "translation": "勞動"
+  },
+  {
+    "id": 846,
+    "word": "Layer",
+    "pos": "n.",
+    "translation": "層"
+  },
+  {
+    "id": 847,
+    "word": "Lecture",
+    "pos": "n.",
+    "translation": "演講"
+  },
+  {
+    "id": 848,
+    "word": "Legal",
+    "pos": "adj.",
+    "translation": "法律的"
+  },
+  {
+    "id": 849,
+    "word": "Legislate",
+    "pos": "v.",
+    "translation": "立法"
+  },
+  {
+    "id": 850,
+    "word": "Levy",
+    "pos": "v.",
+    "translation": "徵稅"
+  },
+  {
+    "id": 851,
+    "word": "Liberal",
+    "pos": "adj.",
+    "translation": "開明的、自由的"
+  },
+  {
+    "id": 852,
+    "word": "License",
+    "pos": "n./v.",
+    "translation": "執照"
+  },
+  {
+    "id": 853,
+    "word": "Likewise",
+    "pos": "adv.",
+    "translation": "同樣地"
+  },
+  {
+    "id": 854,
+    "word": "Link",
+    "pos": "n./v.",
+    "translation": "連結"
+  },
+  {
+    "id": 855,
+    "word": "Locate",
+    "pos": "v.",
+    "translation": "定位"
+  },
+  {
+    "id": 856,
+    "word": "Logic",
+    "pos": "n.",
+    "translation": "邏輯"
+  },
+  {
+    "id": 857,
+    "word": "Maintain",
+    "pos": "v.",
+    "translation": "維持"
+  },
+  {
+    "id": 858,
+    "word": "Major",
+    "pos": "adj.",
+    "translation": "主要的"
+  },
+  {
+    "id": 859,
+    "word": "Manipulate",
+    "pos": "v.",
+    "translation": "操縱"
+  },
+  {
+    "id": 860,
+    "word": "Manual",
+    "pos": "adj./n.",
+    "translation": "手動的"
+  },
+  {
+    "id": 861,
+    "word": "Margin",
+    "pos": "n.",
+    "translation": "邊緣"
+  },
+  {
+    "id": 862,
+    "word": "Mature",
+    "pos": "adj.",
+    "translation": "成熟的"
+  },
+  {
+    "id": 863,
+    "word": "Maximize",
+    "pos": "v.",
+    "translation": "最大化"
+  },
+  {
+    "id": 864,
+    "word": "Mechanism",
+    "pos": "n.",
+    "translation": "機制"
+  },
+  {
+    "id": 865,
+    "word": "Media",
+    "pos": "n.",
+    "translation": "媒體"
+  },
+  {
+    "id": 866,
+    "word": "Mediate",
+    "pos": "v.",
+    "translation": "調解"
+  },
+  {
+    "id": 867,
+    "word": "Medical",
+    "pos": "adj.",
+    "translation": "醫療的"
+  },
+  {
+    "id": 868,
+    "word": "Medium",
+    "pos": "n.",
+    "translation": "媒介"
+  },
+  {
+    "id": 869,
+    "word": "Mental",
+    "pos": "adj.",
+    "translation": "心理的"
+  },
+  {
+    "id": 870,
+    "word": "Method",
+    "pos": "n.",
+    "translation": "方法"
+  },
+  {
+    "id": 871,
+    "word": "Migrate",
+    "pos": "v.",
+    "translation": "遷移"
+  },
+  {
+    "id": 872,
+    "word": "Military",
+    "pos": "adj.",
+    "translation": "軍事的"
+  },
+  {
+    "id": 873,
+    "word": "Minimal",
+    "pos": "adj.",
+    "translation": "極小的"
+  },
+  {
+    "id": 874,
+    "word": "Minimize",
+    "pos": "v.",
+    "translation": "最小化"
+  },
+  {
+    "id": 876,
+    "word": "Ministry",
+    "pos": "n.",
+    "translation": "部門"
+  },
+  {
+    "id": 877,
+    "word": "Minor",
+    "pos": "adj.",
+    "translation": "次要的"
+  },
+  {
+    "id": 878,
+    "word": "Mode",
+    "pos": "n.",
+    "translation": "模式"
+  },
+  {
+    "id": 879,
+    "word": "Modify",
+    "pos": "v.",
+    "translation": "修改"
+  },
+  {
+    "id": 880,
+    "word": "Monitor",
+    "pos": "v./n.",
+    "translation": "監測"
+  },
+  {
+    "id": 881,
+    "word": "Motive",
+    "pos": "n.",
+    "translation": "動機"
+  },
+  {
+    "id": 882,
+    "word": "Mutual",
+    "pos": "adj.",
+    "translation": "相互的"
+  },
+  {
+    "id": 883,
+    "word": "Negate",
+    "pos": "v.",
+    "translation": "否定、使失效"
+  },
+  {
+    "id": 884,
+    "word": "Network",
+    "pos": "n.",
+    "translation": "網路"
+  },
+  {
+    "id": 885,
+    "word": "Neutral",
+    "pos": "adj.",
+    "translation": "中立的"
+  },
+  {
+    "id": 886,
+    "word": "Nevertheless",
+    "pos": "adv.",
+    "translation": "然而"
+  },
+  {
+    "id": 887,
+    "word": "Nonetheless",
+    "pos": "adv.",
+    "translation": "儘管如此"
+  },
+  {
+    "id": 888,
+    "word": "Normal",
+    "pos": "adj.",
+    "translation": "正常的"
+  },
+  {
+    "id": 889,
+    "word": "Notion",
+    "pos": "n.",
+    "translation": "概念"
+  },
+  {
+    "id": 890,
+    "word": "Notwithstanding",
+    "pos": "prep.",
+    "translation": "儘管"
+  },
+  {
+    "id": 891,
+    "word": "Nuclear",
+    "pos": "adj.",
+    "translation": "核能的"
+  },
+  {
+    "id": 892,
+    "word": "Objective",
+    "pos": "n.",
+    "translation": "目標"
+  },
+  {
+    "id": 893,
+    "word": "Obtain",
+    "pos": "v.",
+    "translation": "獲得"
+  },
+  {
+    "id": 894,
+    "word": "Obvious",
+    "pos": "adj.",
+    "translation": "顯然的"
+  },
+  {
+    "id": 895,
+    "word": "Occupy",
+    "pos": "v.",
+    "translation": "佔領"
+  },
+  {
+    "id": 896,
+    "word": "Occur",
+    "pos": "v.",
+    "translation": "發生"
+  },
+  {
+    "id": 897,
+    "word": "Odd",
+    "pos": "adj.",
+    "translation": "奇怪的"
+  },
+  {
+    "id": 898,
+    "word": "Offset",
+    "pos": "v.",
+    "translation": "抵銷"
+  },
+  {
+    "id": 899,
+    "word": "Ongoing",
+    "pos": "adj.",
+    "translation": "進行中的"
+  },
+  {
+    "id": 900,
+    "word": "Option",
+    "pos": "n.",
+    "translation": "選項"
+  },
+  {
+    "id": 901,
+    "word": "Order",
+    "pos": "n./v.",
+    "translation": "順序、命令"
+  },
+  {
+    "id": 902,
+    "word": "Organize",
+    "pos": "v.",
+    "translation": "組織、安排"
+  },
+  {
+    "id": 903,
+    "word": "Orient",
+    "pos": "v.",
+    "translation": "適應、確定方向"
+  },
+  {
+    "id": 904,
+    "word": "Outcome",
+    "pos": "n.",
+    "translation": "結果"
+  },
+  {
+    "id": 905,
+    "word": "Output",
+    "pos": "n./v.",
+    "translation": "輸出"
+  },
+  {
+    "id": 907,
+    "word": "Overlap",
+    "pos": "v./n.",
+    "translation": "重疊"
+  },
+  {
+    "id": 909,
+    "word": "Panel",
+    "pos": "n.",
+    "translation": "座談會、儀表板"
+  },
+  {
+    "id": 910,
+    "word": "Paradigm",
+    "pos": "n.",
+    "translation": "典範"
+  },
+  {
+    "id": 911,
+    "word": "Paragraph",
+    "pos": "n.",
+    "translation": "段落"
+  },
+  {
+    "id": 912,
+    "word": "Parallel",
+    "pos": "adj./n.",
+    "translation": "平行的"
+  },
+  {
+    "id": 913,
+    "word": "Parameter",
+    "pos": "n.",
+    "translation": "參數"
+  },
+  {
+    "id": 914,
+    "word": "Participate",
+    "pos": "v.",
+    "translation": "參加"
+  },
+  {
+    "id": 915,
+    "word": "Partner",
+    "pos": "n./v.",
+    "translation": "夥伴、合作"
+  },
+  {
+    "id": 916,
+    "word": "Passive",
+    "pos": "adj.",
+    "translation": "被動的"
+  },
+  {
+    "id": 917,
+    "word": "Perceive",
+    "pos": "v.",
+    "translation": "感知、察覺"
+  },
+  {
+    "id": 918,
+    "word": "Percent",
+    "pos": "n.",
+    "translation": "百分比"
+  },
+  {
+    "id": 919,
+    "word": "Period",
+    "pos": "n.",
+    "translation": "期間"
+  },
+  {
+    "id": 920,
+    "word": "Persist",
+    "pos": "v.",
+    "translation": "堅持、持續"
+  },
+  {
+    "id": 921,
+    "word": "Perspective",
+    "pos": "n.",
+    "translation": "觀點"
+  },
+  {
+    "id": 922,
+    "word": "Phase",
+    "pos": "n./v.",
+    "translation": "階段"
+  },
+  {
+    "id": 923,
+    "word": "Phenomenon",
+    "pos": "n.",
+    "translation": "現象"
+  },
+  {
+    "id": 924,
+    "word": "Philosophy",
+    "pos": "n.",
+    "translation": "哲學、理念"
+  },
+  {
+    "id": 925,
+    "word": "Physical",
+    "pos": "adj.",
+    "translation": "物理的"
+  },
+  {
+    "id": 927,
+    "word": "Policy",
+    "pos": "n.",
+    "translation": "政策"
+  },
+  {
+    "id": 928,
+    "word": "Portion",
+    "pos": "n.",
+    "translation": "部分"
+  },
+  {
+    "id": 929,
+    "word": "Pose",
+    "pos": "v.",
+    "translation": "造成、提出"
+  },
+  {
+    "id": 930,
+    "word": "Positive",
+    "pos": "adj.",
+    "translation": "正面的"
+  },
+  {
+    "id": 931,
+    "word": "Potential",
+    "pos": "adj./n.",
+    "translation": "潛在的"
+  },
+  {
+    "id": 932,
+    "word": "Practitioner",
+    "pos": "n.",
+    "translation": "開業醫生、從業者"
+  },
+  {
+    "id": 933,
+    "word": "Precede",
+    "pos": "v.",
+    "translation": "在...之前"
+  },
+  {
+    "id": 934,
+    "word": "Precise",
+    "pos": "adj.",
+    "translation": "精確的"
+  },
+  {
+    "id": 935,
+    "word": "Predict",
+    "pos": "v.",
+    "translation": "預測"
+  },
+  {
+    "id": 936,
+    "word": "Predominant",
+    "pos": "adj.",
+    "translation": "佔優勢的"
+  },
+  {
+    "id": 937,
+    "word": "Preliminary",
+    "pos": "adj.",
+    "translation": "初步的"
+  },
+  {
+    "id": 938,
+    "word": "Presume",
+    "pos": "v.",
+    "translation": "假定"
+  },
+  {
+    "id": 939,
+    "word": "Previous",
+    "pos": "adj.",
+    "translation": "先前的"
+  },
+  {
+    "id": 940,
+    "word": "Primary",
+    "pos": "adj.",
+    "translation": "首要的"
+  },
+  {
+    "id": 941,
+    "word": "Prime",
+    "pos": "adj.",
+    "translation": "主要的"
+  },
+  {
+    "id": 942,
+    "word": "Principal",
+    "pos": "adj./n.",
+    "translation": "主要的"
+  },
+  {
+    "id": 943,
+    "word": "Principle",
+    "pos": "n.",
+    "translation": "原則"
+  },
+  {
+    "id": 944,
+    "word": "Prior",
+    "pos": "adj.",
+    "translation": "先前的"
+  },
+  {
+    "id": 945,
+    "word": "Priority",
+    "pos": "n.",
+    "translation": "優先權"
+  },
+  {
+    "id": 946,
+    "word": "Proceed",
+    "pos": "v.",
+    "translation": "繼續進行"
+  },
+  {
+    "id": 947,
+    "word": "Process",
+    "pos": "n./v.",
+    "translation": "過程"
+  },
+  {
+    "id": 948,
+    "word": "Professional",
+    "pos": "adj./n.",
+    "translation": "專業的"
+  },
+  {
+    "id": 949,
+    "word": "Prohibit",
+    "pos": "v.",
+    "translation": "禁止"
+  },
+  {
+    "id": 950,
+    "word": "Project",
+    "pos": "n./v.",
+    "translation": "計畫、投射"
+  },
+  {
+    "id": 951,
+    "word": "Promote",
+    "pos": "v.",
+    "translation": "促進"
+  },
+  {
+    "id": 952,
+    "word": "Proportion",
+    "pos": "n.",
+    "translation": "比例"
+  },
+  {
+    "id": 953,
+    "word": "Prospect",
+    "pos": "n.",
+    "translation": "前景"
+  },
+  {
+    "id": 954,
+    "word": "Protocol",
+    "pos": "n.",
+    "translation": "協議"
+  },
+  {
+    "id": 955,
+    "word": "Psychology",
+    "pos": "n.",
+    "translation": "心理學"
+  },
+  {
+    "id": 956,
+    "word": "Publish",
+    "pos": "v.",
+    "translation": "出版"
+  },
+  {
+    "id": 957,
+    "word": "Purchase",
+    "pos": "v./n.",
+    "translation": "購買"
+  },
+  {
+    "id": 958,
+    "word": "Pursue",
+    "pos": "v.",
+    "translation": "追求"
+  },
+  {
+    "id": 959,
+    "word": "Qualitative",
+    "pos": "adj.",
+    "translation": "定性的"
+  },
+  {
+    "id": 960,
+    "word": "Quote",
+    "pos": "v./n.",
+    "translation": "引用"
+  },
+  {
+    "id": 961,
+    "word": "Radical",
+    "pos": "adj.",
+    "translation": "激進的、根本的"
+  },
+  {
+    "id": 962,
+    "word": "Random",
+    "pos": "adj.",
+    "translation": "隨機的"
+  },
+  {
+    "id": 963,
+    "word": "Range",
+    "pos": "n./v.",
+    "translation": "範圍"
+  },
+  {
+    "id": 964,
+    "word": "Ratio",
+    "pos": "n.",
+    "translation": "比率"
+  },
+  {
+    "id": 965,
+    "word": "Rational",
+    "pos": "adj.",
+    "translation": "理性的"
+  },
+  {
+    "id": 966,
+    "word": "React",
+    "pos": "v.",
+    "translation": "反應"
+  },
+  {
+    "id": 967,
+    "word": "Recover",
+    "pos": "v.",
+    "translation": "恢復"
+  },
+  {
+    "id": 968,
+    "word": "Refine",
+    "pos": "v.",
+    "translation": "精煉、改進"
+  },
+  {
+    "id": 969,
+    "word": "Regime",
+    "pos": "n.",
+    "translation": "政權、制度"
+  },
+  {
+    "id": 970,
+    "word": "Region",
+    "pos": "n.",
+    "translation": "地區"
+  },
+  {
+    "id": 971,
+    "word": "Register",
+    "pos": "v./n.",
+    "translation": "登記"
+  },
+  {
+    "id": 972,
+    "word": "Regulate",
+    "pos": "v.",
+    "translation": "管制"
+  },
+  {
+    "id": 973,
+    "word": "Reject",
+    "pos": "v.",
+    "translation": "拒絕"
+  },
+  {
+    "id": 974,
+    "word": "Relax",
+    "pos": "v.",
+    "translation": "放鬆"
+  },
+  {
+    "id": 975,
+    "word": "Release",
+    "pos": "v./n.",
+    "translation": "發布"
+  },
+  {
+    "id": 976,
+    "word": "Relevant",
+    "pos": "adj.",
+    "translation": "相關的"
+  },
+  {
+    "id": 977,
+    "word": "Reluctance",
+    "pos": "n.",
+    "translation": "不情願"
+  },
+  {
+    "id": 978,
+    "word": "Rely",
+    "pos": "v.",
+    "translation": "依賴"
+  },
+  {
+    "id": 979,
+    "word": "Remove",
+    "pos": "v.",
+    "translation": "移除"
+  },
+  {
+    "id": 980,
+    "word": "Require",
+    "pos": "v.",
+    "translation": "需要"
+  },
+  {
+    "id": 981,
+    "word": "Research",
+    "pos": "n./v.",
+    "translation": "研究"
+  },
+  {
+    "id": 982,
+    "word": "Reside",
+    "pos": "v.",
+    "translation": "居住"
+  },
+  {
+    "id": 983,
+    "word": "Resolve",
+    "pos": "v.",
+    "translation": "解決"
+  },
+  {
+    "id": 984,
+    "word": "Resource",
+    "pos": "n.",
+    "translation": "資源"
+  },
+  {
+    "id": 985,
+    "word": "Respond",
+    "pos": "v.",
+    "translation": "回應"
+  },
+  {
+    "id": 986,
+    "word": "Restore",
+    "pos": "v.",
+    "translation": "恢復"
+  },
+  {
+    "id": 987,
+    "word": "Restrain",
+    "pos": "v.",
+    "translation": "抑制"
+  },
+  {
+    "id": 988,
+    "word": "Restrict",
+    "pos": "v.",
+    "translation": "限制"
+  },
+  {
+    "id": 989,
+    "word": "Retain",
+    "pos": "v.",
+    "translation": "保留"
+  },
+  {
+    "id": 990,
+    "word": "Reveal",
+    "pos": "v.",
+    "translation": "揭露"
+  },
+  {
+    "id": 991,
+    "word": "Revenue",
+    "pos": "n.",
+    "translation": "收入"
+  },
+  {
+    "id": 992,
+    "word": "Reverse",
+    "pos": "v./n.",
+    "translation": "逆轉"
+  },
+  {
+    "id": 993,
+    "word": "Revise",
+    "pos": "v.",
+    "translation": "修訂"
+  },
+  {
+    "id": 994,
+    "word": "Revolution",
+    "pos": "n.",
+    "translation": "革命"
+  },
+  {
+    "id": 995,
+    "word": "Rigid",
+    "pos": "adj.",
+    "translation": "嚴格的"
+  },
+  {
+    "id": 996,
+    "word": "Role",
+    "pos": "n.",
+    "translation": "角色"
+  },
+  {
+    "id": 997,
+    "word": "Route",
+    "pos": "n.",
+    "translation": "路線"
+  },
+  {
+    "id": 998,
+    "word": "Scenario",
+    "pos": "n.",
+    "translation": "情境"
+  },
+  {
+    "id": 999,
+    "word": "Schedule",
+    "pos": "n./v.",
+    "translation": "行程、安排"
+  },
+  {
+    "id": 1000,
+    "word": "Scheme",
+    "pos": "n.",
+    "translation": "計畫"
+  }
+]
